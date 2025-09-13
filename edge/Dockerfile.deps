@@ -1,0 +1,42 @@
+FROM --platform=$BUILDPLATFORM alpine:latest
+ARG TARGETPLATFORM
+RUN apk add --no-cache \
+    git \
+    zig \
+    cmake \
+    samurai
+
+COPY build-support /
+WORKDIR /src
+
+# Step 1: Build libcoap
+RUN git clone --depth=1 https://github.com/obgm/libcoap.git libcoap
+RUN mkdir libcoap/build && cd libcoap/build && \
+    cmake .. \
+        -GNinja \
+        -DCMAKE_C_COMPILER="/zig-cc" \
+        -DCMAKE_CXX_COMPILER="/zig-cxx" \
+        -DCMAKE_AR="/zig-ar" \
+        -DCMAKE_RANLIB="/zig-ranlib" \
+        -DENABLE_DTLS=OFF \
+        -DCMAKE_C_FLAGS=-static \
+        -DBUILD_SHARED_LIBS=OFF \
+        -DCMAKE_INSTALL_PREFIX=/src/target && \
+    ninja -j$(nproc) && \
+    ninja install
+
+# Step 2: Build cjson
+RUN git clone --depth=1 https://github.com/DaveGamble/cJSON.git cjson
+RUN mkdir cjson/build && cd cjson/build && \
+    cmake .. \
+        -GNinja \
+        -DCMAKE_C_COMPILER="/zig-cc" \
+        -DCMAKE_CXX_COMPILER="/zig-cxx" \
+        -DCMAKE_AR="/zig-ar" \
+        -DCMAKE_RANLIB="/zig-ranlib" \
+        -DCMAKE_C_FLAGS=-static \
+        -DCMAKE_C_STANDARD=99 \
+        -DBUILD_SHARED_LIBS=OFF \
+        -DCMAKE_INSTALL_PREFIX=/src/target && \
+    ninja -j$(nproc) && \
+    ninja install

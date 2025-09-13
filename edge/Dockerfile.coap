@@ -1,0 +1,22 @@
+FROM gitlab.lrz.de:5005/sgc/edge/deps:$TARGETARCH AS builder
+ARG TARGETPLATFORM
+COPY . /src/app
+RUN mkdir app/build && cd app/build && \
+    cmake .. \
+        -GNinja \
+        -DCMAKE_C_COMPILER="/zig-cc" \
+        -DCMAKE_CXX_COMPILER="/zig-cxx" \
+        -DCMAKE_AR="/zig-ar" \
+        -DCMAKE_RANLIB="/zig-ranlib" \
+        -DCMAKE_C_FLAGS=-static \
+        -DCMAKE_FIND_ROOT_PATH=/src/target \
+        -DCMAKE_BUILD_TYPE=Release && \
+    ninja -j $(nproc)
+
+# Step 4: Build the final container image
+FROM --platform=$TARGETPLATFORM docker:cli
+COPY --from=builder /src/app/build/coapServer /
+COPY --from=builder /src/app/runApp.sh /
+VOLUME [ "/data" ]
+ENTRYPOINT [ "/coapServer" ]
+CMD [ "/data/weights.json" ]

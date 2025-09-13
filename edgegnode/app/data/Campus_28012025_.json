@@ -1,0 +1,1428 @@
+{
+  "gnodes" : [ {
+    "id" : 0,
+    "IsEndPoint" : true,
+    "Point" : "POINT (11.6761724 48.2666016)",
+    "streetIds" : [ "way/1006099516", "way/85077484" ]
+  }, {
+    "id" : 1,
+    "IsEndPoint" : true,
+    "Point" : "POINT (11.6759369 48.2667363)",
+    "streetIds" : [ "way/1006099516", "way/1006099517" ]
+  }, {
+    "id" : 2,
+    "IsEndPoint" : true,
+    "Point" : "POINT (11.6759369 48.2667363)",
+    "streetIds" : [ "way/1006099517", "way/1006099516" ]
+  }, {
+    "id" : 3,
+    "IsEndPoint" : true,
+    "Point" : "POINT (11.6758195 48.2667467)",
+    "streetIds" : [ "way/1006099517", "way/1108129077" ]
+  }, {
+    "id" : 4,
+    "IsEndPoint" : true,
+    "Point" : "POINT (11.6781051 48.2663974)",
+    "streetIds" : [ "way/85077484", "way/23316537", "way/32551897" ]
+  }, {
+    "id" : 5,
+    "IsEndPoint" : true,
+    "Point" : "POINT (11.6761724 48.2666016)",
+    "streetIds" : [ "way/85077484", "way/1006099516" ]
+  }, {
+    "id" : 6,
+    "IsEndPoint" : true,
+    "Point" : "POINT (11.6745788 48.26685)",
+    "streetIds" : [ "way/1108129077", "way/172826863" ]
+  }, {
+    "id" : 7,
+    "IsEndPoint" : true,
+    "Point" : "POINT (11.6758195 48.2667467)",
+    "streetIds" : [ "way/1108129077", "way/1006099517" ]
+  }, {
+    "id" : 8,
+    "IsEndPoint" : true,
+    "Point" : "POINT (11.6655431 48.2675072)",
+    "streetIds" : [ "way/1064411270", "way/47852795" ]
+  }, {
+    "id" : 9,
+    "IsEndPoint" : true,
+    "Point" : "POINT (11.6651292 48.2659026)",
+    "streetIds" : [ "way/1064411270", "way/924165147" ]
+  }, {
+    "id" : 10,
+    "IsEndPoint" : true,
+    "Point" : "POINT (11.6641071 48.2676699)",
+    "streetIds" : [ "way/47852795", "way/1211997773" ]
+  }, {
+    "id" : 11,
+    "IsEndPoint" : true,
+    "Point" : "POINT (11.6661659 48.2674354)",
+    "streetIds" : [ "way/47852795", "way/1203803777" ]
+  }, {
+    "id" : 12,
+    "IsEndPoint" : true,
+    "Point" : "POINT (11.6651292 48.2659026)",
+    "streetIds" : [ "way/924165147", "way/1064411270" ]
+  }, {
+    "id" : 13,
+    "IsEndPoint" : true,
+    "Point" : "POINT (11.6619751 48.2652436)",
+    "streetIds" : [ "way/924165147", "way/1079922923", "way/802330623" ]
+  }, {
+    "id" : 14,
+    "IsEndPoint" : true,
+    "Point" : "POINT (11.6621886 48.2601928)",
+    "streetIds" : [ "way/10699842" ]
+  }, {
+    "id" : 15,
+    "IsEndPoint" : true,
+    "Point" : "POINT (11.6608012 48.2608743)",
+    "streetIds" : [ "way/10699842", "way/10697389" ]
+  }, {
+    "id" : 16,
+    "IsEndPoint" : true,
+    "Point" : "POINT (11.6611156 48.2621011)",
+    "streetIds" : [ "way/10697389", "way/30615927", "way/802330623" ]
+  }, {
+    "id" : 17,
+    "IsEndPoint" : true,
+    "Point" : "POINT (11.6601566 48.2596428)",
+    "streetIds" : [ "way/10697389" ]
+  }, {
+    "id" : 18,
+    "IsEndPoint" : true,
+    "Point" : "POINT (11.6639212 48.2617701)",
+    "streetIds" : [ "way/30615927", "way/1108129216" ]
+  }, {
+    "id" : 19,
+    "IsEndPoint" : true,
+    "Point" : "POINT (11.6601246 48.2622157)",
+    "streetIds" : [ "way/30615927" ]
+  }, {
+    "id" : 20,
+    "IsEndPoint" : true,
+    "Point" : "POINT (11.6611156 48.2621011)",
+    "streetIds" : [ "way/802330623", "way/10697389", "way/30615927" ]
+  }, {
+    "id" : 21,
+    "IsEndPoint" : true,
+    "Point" : "POINT (11.6619751 48.2652436)",
+    "streetIds" : [ "way/802330623", "way/1079922923", "way/924165147" ]
+  }, {
+    "id" : 22,
+    "IsEndPoint" : true,
+    "Point" : "POINT (11.6629518 48.2654571)",
+    "streetIds" : [ "way/1079922924" ]
+  }, {
+    "id" : 23,
+    "IsEndPoint" : true,
+    "Point" : "POINT (11.6630038 48.2654503)",
+    "streetIds" : [ "way/1079922924", "way/1079922923" ]
+  }, {
+    "id" : 24,
+    "IsEndPoint" : true,
+    "Point" : "POINT (11.6632039 48.2661336)",
+    "streetIds" : [ "way/1079922923" ]
+  }, {
+    "id" : 25,
+    "IsEndPoint" : true,
+    "Point" : "POINT (11.6619751 48.2652436)",
+    "streetIds" : [ "way/1079922923", "way/802330623", "way/924165147" ]
+  }, {
+    "id" : 26,
+    "IsEndPoint" : true,
+    "Point" : "POINT (11.6729168 48.2660127)",
+    "streetIds" : [ "way/1083613975", "way/403912529" ]
+  }, {
+    "id" : 27,
+    "IsEndPoint" : true,
+    "Point" : "POINT (11.6729071 48.2664811)",
+    "streetIds" : [ "way/1083613975", "way/1198953654", "way/994971694" ]
+  }, {
+    "id" : 28,
+    "IsEndPoint" : true,
+    "Point" : "POINT (11.6729071 48.2664811)",
+    "streetIds" : [ "way/1198953654", "way/1083613975", "way/994971694" ]
+  }, {
+    "id" : 29,
+    "IsEndPoint" : true,
+    "Point" : "POINT (11.6726409 48.2654773)",
+    "streetIds" : [ "way/1198953654", "way/983606060" ]
+  }, {
+    "id" : 30,
+    "IsEndPoint" : true,
+    "Point" : "POINT (11.6728456 48.2654268)",
+    "streetIds" : [ "way/403912529", "way/983606066" ]
+  }, {
+    "id" : 31,
+    "IsEndPoint" : true,
+    "Point" : "POINT (11.6729168 48.2660127)",
+    "streetIds" : [ "way/403912529", "way/1083613975" ]
+  }, {
+    "id" : 32,
+    "IsEndPoint" : true,
+    "Point" : "POINT (11.6727795 48.2666095)",
+    "streetIds" : [ "way/994971694", "way/996777210" ]
+  }, {
+    "id" : 33,
+    "IsEndPoint" : true,
+    "Point" : "POINT (11.6729071 48.2664811)",
+    "streetIds" : [ "way/994971694", "way/1083613975", "way/1198953654" ]
+  }, {
+    "id" : 34,
+    "IsEndPoint" : true,
+    "Point" : "POINT (11.6724475 48.2666714)",
+    "streetIds" : [ "way/1108128612", "way/30610971", "way/996777210" ]
+  }, {
+    "id" : 35,
+    "IsEndPoint" : true,
+    "Point" : "POINT (11.672589 48.2672285)",
+    "streetIds" : [ "way/1108128612", "way/1108128613" ]
+  }, {
+    "id" : 36,
+    "IsEndPoint" : true,
+    "Point" : "POINT (11.672589 48.2672285)",
+    "streetIds" : [ "way/1108128613", "way/1108128612" ]
+  }, {
+    "id" : 37,
+    "IsEndPoint" : true,
+    "Point" : "POINT (11.6728163 48.2680506)",
+    "streetIds" : [ "way/1108128613", "way/1108128947" ]
+  }, {
+    "id" : 38,
+    "IsEndPoint" : true,
+    "Point" : "POINT (11.672553 48.267089)",
+    "streetIds" : [ "way/1198953652", "way/1108128612" ]
+  }, {
+    "id" : 39,
+    "IsEndPoint" : true,
+    "Point" : "POINT (11.6729541 48.2670384)",
+    "streetIds" : [ "way/1198953652", "way/172826863" ]
+  }, {
+    "id" : 40,
+    "IsEndPoint" : true,
+    "Point" : "POINT (11.6717061 48.266761)",
+    "streetIds" : [ "way/30610971", "way/330587895", "way/46717843" ]
+  }, {
+    "id" : 41,
+    "IsEndPoint" : true,
+    "Point" : "POINT (11.6724475 48.2666714)",
+    "streetIds" : [ "way/30610971", "way/1108128612", "way/996777210" ]
+  }, {
+    "id" : 42,
+    "IsEndPoint" : true,
+    "Point" : "POINT (11.6724475 48.2666714)",
+    "streetIds" : [ "way/996777210", "way/1108128612", "way/30610971" ]
+  }, {
+    "id" : 43,
+    "IsEndPoint" : true,
+    "Point" : "POINT (11.6727795 48.2666095)",
+    "streetIds" : [ "way/996777210", "way/994971694" ]
+  }, {
+    "id" : 44,
+    "IsEndPoint" : true,
+    "Point" : "POINT (11.6728163 48.2680506)",
+    "streetIds" : [ "way/1108128947", "way/1108128613" ]
+  }, {
+    "id" : 45,
+    "IsEndPoint" : true,
+    "Point" : "POINT (11.672856 48.2682045)",
+    "streetIds" : [ "way/1108128947", "way/1108128948" ]
+  }, {
+    "id" : 46,
+    "IsEndPoint" : true,
+    "Point" : "POINT (11.6711324 48.2679262)",
+    "streetIds" : [ "way/727241267", "way/912372771" ]
+  }, {
+    "id" : 47,
+    "IsEndPoint" : true,
+    "Point" : "POINT (11.6727208 48.2677227)",
+    "streetIds" : [ "way/727241267", "way/1108128613" ]
+  }, {
+    "id" : 48,
+    "IsEndPoint" : true,
+    "Point" : "POINT (11.672856 48.2682045)",
+    "streetIds" : [ "way/1108128948", "way/1108128947" ]
+  }, {
+    "id" : 49,
+    "IsEndPoint" : true,
+    "Point" : "POINT (11.6729228 48.2684621)",
+    "streetIds" : [ "way/1108128948", "way/14854197" ]
+  }, {
+    "id" : 50,
+    "IsEndPoint" : true,
+    "Point" : "POINT (11.6729228 48.2684621)",
+    "streetIds" : [ "way/14854197", "way/1108128948" ]
+  }, {
+    "id" : 51,
+    "IsEndPoint" : true,
+    "Point" : "POINT (11.6731354 48.269264)",
+    "streetIds" : [ "way/14854197", "way/1198953653", "way/15598996" ]
+  }, {
+    "id" : 52,
+    "IsEndPoint" : true,
+    "Point" : "POINT (11.6729112 48.2684136)",
+    "streetIds" : [ "way/931974269", "way/1108128948" ]
+  }, {
+    "id" : 53,
+    "IsEndPoint" : true,
+    "Point" : "POINT (11.6747305 48.2682291)",
+    "streetIds" : [ "way/931974269", "way/295418156" ]
+  }, {
+    "id" : 54,
+    "IsEndPoint" : true,
+    "Point" : "POINT (11.6729541 48.2670384)",
+    "streetIds" : [ "way/172826863", "way/1198953652" ]
+  }, {
+    "id" : 55,
+    "IsEndPoint" : true,
+    "Point" : "POINT (11.6745788 48.26685)",
+    "streetIds" : [ "way/172826863", "way/1108129077" ]
+  }, {
+    "id" : 56,
+    "IsEndPoint" : true,
+    "Point" : "POINT (11.6661199 48.2615)",
+    "streetIds" : [ "way/1108129216", "way/4046046" ]
+  }, {
+    "id" : 57,
+    "IsEndPoint" : true,
+    "Point" : "POINT (11.6639212 48.2617701)",
+    "streetIds" : [ "way/1108129216", "way/30615927" ]
+  }, {
+    "id" : 58,
+    "IsEndPoint" : true,
+    "Point" : "POINT (11.6697908 48.2611491)",
+    "streetIds" : [ "way/4046046", "way/13863892", "way/14391389" ]
+  }, {
+    "id" : 59,
+    "IsEndPoint" : true,
+    "Point" : "POINT (11.6661199 48.2615)",
+    "streetIds" : [ "way/4046046", "way/1108129216" ]
+  }, {
+    "id" : 60,
+    "IsEndPoint" : true,
+    "Point" : "POINT (11.6721696 48.2693786)",
+    "streetIds" : [ "way/1198953653", "way/23316541" ]
+  }, {
+    "id" : 61,
+    "IsEndPoint" : true,
+    "Point" : "POINT (11.6731354 48.269264)",
+    "streetIds" : [ "way/1198953653", "way/14854197", "way/15598996" ]
+  }, {
+    "id" : 62,
+    "IsEndPoint" : true,
+    "Point" : "POINT (11.6731354 48.269264)",
+    "streetIds" : [ "way/15598996", "way/1198953653", "way/14854197" ]
+  }, {
+    "id" : 63,
+    "IsEndPoint" : true,
+    "Point" : "POINT (11.6751275 48.2690395)",
+    "streetIds" : [ "way/15598996", "way/295418155", "way/295418156" ]
+  }, {
+    "id" : 64,
+    "IsEndPoint" : true,
+    "Point" : "POINT (11.6702397 48.2696069)",
+    "streetIds" : [ "way/23316541", "way/23316540" ]
+  }, {
+    "id" : 65,
+    "IsEndPoint" : true,
+    "Point" : "POINT (11.6721696 48.2693786)",
+    "streetIds" : [ "way/23316541", "way/1198953653" ]
+  }, {
+    "id" : 66,
+    "IsEndPoint" : true,
+    "Point" : "POINT (11.6726409 48.2654773)",
+    "streetIds" : [ "way/983606060", "way/1198953654" ]
+  }, {
+    "id" : 67,
+    "IsEndPoint" : true,
+    "Point" : "POINT (11.6723864 48.2644354)",
+    "streetIds" : [ "way/983606060", "way/983610116" ]
+  }, {
+    "id" : 68,
+    "IsEndPoint" : true,
+    "Point" : "POINT (11.6664685 48.2676417)",
+    "streetIds" : [ "way/191139539" ]
+  }, {
+    "id" : 69,
+    "IsEndPoint" : true,
+    "Point" : "POINT (11.666404 48.2674024)",
+    "streetIds" : [ "way/191139539", "way/1203803777" ]
+  }, {
+    "id" : 70,
+    "IsEndPoint" : true,
+    "Point" : "POINT (11.6661659 48.2674354)",
+    "streetIds" : [ "way/1203803777", "way/47852795" ]
+  }, {
+    "id" : 71,
+    "IsEndPoint" : true,
+    "Point" : "POINT (11.6675912 48.2672556)",
+    "streetIds" : [ "way/1203803777", "way/30571475" ]
+  }, {
+    "id" : 72,
+    "IsEndPoint" : true,
+    "Point" : "POINT (11.6675912 48.2672556)",
+    "streetIds" : [ "way/30571475", "way/1203803777" ]
+  }, {
+    "id" : 73,
+    "IsEndPoint" : true,
+    "Point" : "POINT (11.6679274 48.2672153)",
+    "streetIds" : [ "way/30571475", "way/46717844" ]
+  }, {
+    "id" : 74,
+    "IsEndPoint" : true,
+    "Point" : "POINT (11.6672596 48.269325)",
+    "streetIds" : [ "way/907133042", "way/983606045" ]
+  }, {
+    "id" : 75,
+    "IsEndPoint" : true,
+    "Point" : "POINT (11.6667484 48.2673623)",
+    "streetIds" : [ "way/907133042", "way/1203803777" ]
+  }, {
+    "id" : 76,
+    "IsEndPoint" : true,
+    "Point" : "POINT (11.663136 48.2677959)",
+    "streetIds" : [ "way/1211997773", "way/617369305", "way/618206086" ]
+  }, {
+    "id" : 77,
+    "IsEndPoint" : true,
+    "Point" : "POINT (11.6641071 48.2676699)",
+    "streetIds" : [ "way/1211997773", "way/47852795" ]
+  }, {
+    "id" : 78,
+    "IsEndPoint" : true,
+    "Point" : "POINT (11.6628578 48.2677854)",
+    "streetIds" : [ "way/617369305", "way/28759280", "way/617369302" ]
+  }, {
+    "id" : 79,
+    "IsEndPoint" : true,
+    "Point" : "POINT (11.663136 48.2677959)",
+    "streetIds" : [ "way/617369305", "way/1211997773", "way/618206086" ]
+  }, {
+    "id" : 80,
+    "IsEndPoint" : true,
+    "Point" : "POINT (11.663136 48.2677959)",
+    "streetIds" : [ "way/618206086", "way/1211997773", "way/617369305" ]
+  }, {
+    "id" : 81,
+    "IsEndPoint" : true,
+    "Point" : "POINT (11.6630376 48.2678155)",
+    "streetIds" : [ "way/618206086", "way/4046109", "way/47852796" ]
+  }, {
+    "id" : 82,
+    "IsEndPoint" : true,
+    "Point" : "POINT (11.6710812 48.2645067)",
+    "streetIds" : [ "way/1223290039", "way/14391389" ]
+  }, {
+    "id" : 83,
+    "IsEndPoint" : true,
+    "Point" : "POINT (11.6711494 48.2647506)",
+    "streetIds" : [ "way/1223290039", "way/46195417" ]
+  }, {
+    "id" : 84,
+    "IsEndPoint" : true,
+    "Point" : "POINT (11.6697908 48.2611491)",
+    "streetIds" : [ "way/14391389", "way/13863892", "way/4046046" ]
+  }, {
+    "id" : 85,
+    "IsEndPoint" : true,
+    "Point" : "POINT (11.6710812 48.2645067)",
+    "streetIds" : [ "way/14391389", "way/1223290039" ]
+  }, {
+    "id" : 86,
+    "IsEndPoint" : true,
+    "Point" : "POINT (11.6711494 48.2647506)",
+    "streetIds" : [ "way/46195417", "way/1223290039" ]
+  }, {
+    "id" : 87,
+    "IsEndPoint" : true,
+    "Point" : "POINT (11.6712162 48.2649857)",
+    "streetIds" : [ "way/46195417", "way/330587895" ]
+  }, {
+    "id" : 88,
+    "IsEndPoint" : true,
+    "Point" : "POINT (11.6690911 48.2611411)",
+    "streetIds" : [ "way/13863869", "way/4046046" ]
+  }, {
+    "id" : 89,
+    "IsEndPoint" : true,
+    "Point" : "POINT (11.6685467 48.2598593)",
+    "streetIds" : [ "way/13863869", "way/13864091" ]
+  }, {
+    "id" : 90,
+    "IsEndPoint" : true,
+    "Point" : "POINT (11.6685467 48.2598593)",
+    "streetIds" : [ "way/13864091", "way/13863869" ]
+  }, {
+    "id" : 91,
+    "IsEndPoint" : true,
+    "Point" : "POINT (11.6664659 48.2603894)",
+    "streetIds" : [ "way/13864091" ]
+  }, {
+    "id" : 92,
+    "IsEndPoint" : true,
+    "Point" : "POINT (11.6697908 48.2611491)",
+    "streetIds" : [ "way/13863892", "way/14391389", "way/4046046" ]
+  }, {
+    "id" : 93,
+    "IsEndPoint" : true,
+    "Point" : "POINT (11.670923 48.2608624)",
+    "streetIds" : [ "way/13863892" ]
+  }, {
+    "id" : 94,
+    "IsEndPoint" : true,
+    "Point" : "POINT (11.6664646 48.2716737)",
+    "streetIds" : [ "way/143209433", "way/425955554" ]
+  }, {
+    "id" : 95,
+    "IsEndPoint" : true,
+    "Point" : "POINT (11.6718452 48.2768727)",
+    "streetIds" : [ "way/143209433" ]
+  }, {
+    "id" : 96,
+    "IsEndPoint" : true,
+    "Point" : "POINT (11.6657133 48.2709556)",
+    "streetIds" : [ "way/425955554", "way/47852794" ]
+  }, {
+    "id" : 97,
+    "IsEndPoint" : true,
+    "Point" : "POINT (11.6664646 48.2716737)",
+    "streetIds" : [ "way/425955554", "way/143209433" ]
+  }, {
+    "id" : 98,
+    "IsEndPoint" : true,
+    "Point" : "POINT (11.6713137 48.2637059)",
+    "streetIds" : [ "way/441246635" ]
+  }, {
+    "id" : 99,
+    "IsEndPoint" : true,
+    "Point" : "POINT (11.6708462 48.2637804)",
+    "streetIds" : [ "way/441246635", "way/14391389" ]
+  }, {
+    "id" : 100,
+    "IsEndPoint" : true,
+    "Point" : "POINT (11.670823 48.263711)",
+    "streetIds" : [ "way/441246636", "way/14391389" ]
+  }, {
+    "id" : 101,
+    "IsEndPoint" : true,
+    "Point" : "POINT (11.6713076 48.2636329)",
+    "streetIds" : [ "way/441246636" ]
+  }, {
+    "id" : 102,
+    "IsEndPoint" : true,
+    "Point" : "POINT (11.6751275 48.2690395)",
+    "streetIds" : [ "way/295418155", "way/15598996", "way/295418156" ]
+  }, {
+    "id" : 103,
+    "IsEndPoint" : true,
+    "Point" : "POINT (11.6774732 48.2687579)",
+    "streetIds" : [ "way/295418155", "way/22993146" ]
+  }, {
+    "id" : 104,
+    "IsEndPoint" : true,
+    "Point" : "POINT (11.6751275 48.2690395)",
+    "streetIds" : [ "way/295418156", "way/15598996", "way/295418155" ]
+  }, {
+    "id" : 105,
+    "IsEndPoint" : true,
+    "Point" : "POINT (11.6747305 48.2682291)",
+    "streetIds" : [ "way/295418156", "way/931974269" ]
+  }, {
+    "id" : 106,
+    "IsEndPoint" : true,
+    "Point" : "POINT (11.6781051 48.2663974)",
+    "streetIds" : [ "way/23316537", "way/32551897", "way/85077484" ]
+  }, {
+    "id" : 107,
+    "IsEndPoint" : true,
+    "Point" : "POINT (11.6788756 48.2687845)",
+    "streetIds" : [ "way/23316537", "way/22993146" ]
+  }, {
+    "id" : 108,
+    "IsEndPoint" : true,
+    "Point" : "POINT (11.6774732 48.2687579)",
+    "streetIds" : [ "way/22993146", "way/295418155" ]
+  }, {
+    "id" : 109,
+    "IsEndPoint" : true,
+    "Point" : "POINT (11.6799483 48.2685621)",
+    "streetIds" : [ "way/22993146", "way/33099591" ]
+  }, {
+    "id" : 110,
+    "IsEndPoint" : true,
+    "Point" : "POINT (11.6799483 48.2685621)",
+    "streetIds" : [ "way/33099591", "way/22993146" ]
+  }, {
+    "id" : 111,
+    "IsEndPoint" : true,
+    "Point" : "POINT (11.6800288 48.2684762)",
+    "streetIds" : [ "way/33099591", "way/33099593" ]
+  }, {
+    "id" : 112,
+    "IsEndPoint" : true,
+    "Point" : "POINT (11.6780768 48.2657722)",
+    "streetIds" : [ "way/32551897", "way/32551896" ]
+  }, {
+    "id" : 113,
+    "IsEndPoint" : true,
+    "Point" : "POINT (11.6781051 48.2663974)",
+    "streetIds" : [ "way/32551897", "way/23316537", "way/85077484" ]
+  }, {
+    "id" : 114,
+    "IsEndPoint" : true,
+    "Point" : "POINT (11.6694714 48.2697007)",
+    "streetIds" : [ "way/23316540" ]
+  }, {
+    "id" : 115,
+    "IsEndPoint" : true,
+    "Point" : "POINT (11.6702397 48.2696069)",
+    "streetIds" : [ "way/23316540", "way/23316541" ]
+  }, {
+    "id" : 116,
+    "IsEndPoint" : true,
+    "Point" : "POINT (11.6684894 48.2696343)",
+    "streetIds" : [ "way/23316553" ]
+  }, {
+    "id" : 117,
+    "IsEndPoint" : true,
+    "Point" : "POINT (11.6681618 48.2696721)",
+    "streetIds" : [ "way/23316553", "way/30571483" ]
+  }, {
+    "id" : 118,
+    "IsEndPoint" : true,
+    "Point" : "POINT (11.6681618 48.2696721)",
+    "streetIds" : [ "way/30571483", "way/23316553" ]
+  }, {
+    "id" : 119,
+    "IsEndPoint" : true,
+    "Point" : "POINT (11.6680748 48.2696563)",
+    "streetIds" : [ "way/30571483" ]
+  }, {
+    "id" : 120,
+    "IsEndPoint" : true,
+    "Point" : "POINT (11.6726763 48.264392)",
+    "streetIds" : [ "way/26583189", "way/983610116" ]
+  }, {
+    "id" : 121,
+    "IsEndPoint" : true,
+    "Point" : "POINT (11.6728221 48.2649612)",
+    "streetIds" : [ "way/26583189", "way/32462432", "way/983606066", "way/983606077" ]
+  }, {
+    "id" : 122,
+    "IsEndPoint" : true,
+    "Point" : "POINT (11.6752033 48.264669)",
+    "streetIds" : [ "way/32462432", "way/32462430" ]
+  }, {
+    "id" : 123,
+    "IsEndPoint" : true,
+    "Point" : "POINT (11.6728221 48.2649612)",
+    "streetIds" : [ "way/32462432", "way/26583189", "way/983606066", "way/983606077" ]
+  }, {
+    "id" : 124,
+    "IsEndPoint" : true,
+    "Point" : "POINT (11.6728221 48.2649612)",
+    "streetIds" : [ "way/983606066", "way/26583189", "way/32462432", "way/983606077" ]
+  }, {
+    "id" : 125,
+    "IsEndPoint" : true,
+    "Point" : "POINT (11.6728456 48.2654268)",
+    "streetIds" : [ "way/983606066", "way/403912529" ]
+  }, {
+    "id" : 126,
+    "IsEndPoint" : true,
+    "Point" : "POINT (11.6725069 48.2650059)",
+    "streetIds" : [ "way/983606077", "way/983606060" ]
+  }, {
+    "id" : 127,
+    "IsEndPoint" : true,
+    "Point" : "POINT (11.6728221 48.2649612)",
+    "streetIds" : [ "way/983606077", "way/26583189", "way/32462432", "way/983606066" ]
+  }, {
+    "id" : 128,
+    "IsEndPoint" : true,
+    "Point" : "POINT (11.6723864 48.2644354)",
+    "streetIds" : [ "way/983610116", "way/983606060" ]
+  }, {
+    "id" : 129,
+    "IsEndPoint" : true,
+    "Point" : "POINT (11.6726763 48.264392)",
+    "streetIds" : [ "way/983610116", "way/26583189" ]
+  }, {
+    "id" : 130,
+    "IsEndPoint" : true,
+    "Point" : "POINT (11.6622856 48.2675856)",
+    "streetIds" : [ "way/28759280", "way/425955555", "way/425955556" ]
+  }, {
+    "id" : 131,
+    "IsEndPoint" : true,
+    "Point" : "POINT (11.6628578 48.2677854)",
+    "streetIds" : [ "way/28759280", "way/617369302", "way/617369305" ]
+  }, {
+    "id" : 132,
+    "IsEndPoint" : true,
+    "Point" : "POINT (11.6622856 48.2675856)",
+    "streetIds" : [ "way/425955555", "way/28759280", "way/425955556" ]
+  }, {
+    "id" : 133,
+    "IsEndPoint" : true,
+    "Point" : "POINT (11.6626078 48.2679224)",
+    "streetIds" : [ "way/425955555", "way/4046109", "way/46717842", "way/617369302" ]
+  }, {
+    "id" : 134,
+    "IsEndPoint" : true,
+    "Point" : "POINT (11.6614349 48.2666908)",
+    "streetIds" : [ "way/425955556", "way/435835283" ]
+  }, {
+    "id" : 135,
+    "IsEndPoint" : true,
+    "Point" : "POINT (11.6622856 48.2675856)",
+    "streetIds" : [ "way/425955556", "way/28759280", "way/425955555" ]
+  }, {
+    "id" : 136,
+    "IsEndPoint" : true,
+    "Point" : "POINT (11.6626078 48.2679224)",
+    "streetIds" : [ "way/617369302", "way/4046109", "way/425955555", "way/46717842" ]
+  }, {
+    "id" : 137,
+    "IsEndPoint" : true,
+    "Point" : "POINT (11.6628578 48.2677854)",
+    "streetIds" : [ "way/617369302", "way/28759280", "way/617369305" ]
+  }, {
+    "id" : 138,
+    "IsEndPoint" : true,
+    "Point" : "POINT (11.6679274 48.2672153)",
+    "streetIds" : [ "way/46717844", "way/30571475" ]
+  }, {
+    "id" : 139,
+    "IsEndPoint" : true,
+    "Point" : "POINT (11.6689283 48.267097)",
+    "streetIds" : [ "way/46717844", "way/46717843" ]
+  }, {
+    "id" : 140,
+    "IsEndPoint" : true,
+    "Point" : "POINT (11.6679221 48.2696244)",
+    "streetIds" : [ "way/30571481" ]
+  }, {
+    "id" : 141,
+    "IsEndPoint" : true,
+    "Point" : "POINT (11.6676552 48.2695309)",
+    "streetIds" : [ "way/30571481", "way/983606045" ]
+  }, {
+    "id" : 142,
+    "IsEndPoint" : true,
+    "Point" : "POINT (11.6676552 48.2695309)",
+    "streetIds" : [ "way/983606045", "way/30571481" ]
+  }, {
+    "id" : 143,
+    "IsEndPoint" : true,
+    "Point" : "POINT (11.6672596 48.269325)",
+    "streetIds" : [ "way/983606045", "way/907133042" ]
+  }, {
+    "id" : 144,
+    "IsEndPoint" : true,
+    "Point" : "POINT (11.6712162 48.2649857)",
+    "streetIds" : [ "way/330587895", "way/46195417" ]
+  }, {
+    "id" : 145,
+    "IsEndPoint" : true,
+    "Point" : "POINT (11.6717061 48.266761)",
+    "streetIds" : [ "way/330587895", "way/30610971", "way/46717843" ]
+  }, {
+    "id" : 146,
+    "IsEndPoint" : true,
+    "Point" : "POINT (11.6689283 48.267097)",
+    "streetIds" : [ "way/46717843", "way/46717844" ]
+  }, {
+    "id" : 147,
+    "IsEndPoint" : true,
+    "Point" : "POINT (11.6717061 48.266761)",
+    "streetIds" : [ "way/46717843", "way/30610971", "way/330587895" ]
+  }, {
+    "id" : 148,
+    "IsEndPoint" : true,
+    "Point" : "POINT (11.675328 48.2646541)",
+    "streetIds" : [ "way/32462430", "way/996776206" ]
+  }, {
+    "id" : 149,
+    "IsEndPoint" : true,
+    "Point" : "POINT (11.6752033 48.264669)",
+    "streetIds" : [ "way/32462430", "way/32462432" ]
+  }, {
+    "id" : 150,
+    "IsEndPoint" : true,
+    "Point" : "POINT (11.6762208 48.2645527)",
+    "streetIds" : [ "way/996776206", "way/996988021" ]
+  }, {
+    "id" : 151,
+    "IsEndPoint" : true,
+    "Point" : "POINT (11.675328 48.2646541)",
+    "streetIds" : [ "way/996776206", "way/32462430" ]
+  }, {
+    "id" : 152,
+    "IsEndPoint" : true,
+    "Point" : "POINT (11.6782682 48.2657638)",
+    "streetIds" : [ "way/32551896" ]
+  }, {
+    "id" : 153,
+    "IsEndPoint" : true,
+    "Point" : "POINT (11.6780768 48.2657722)",
+    "streetIds" : [ "way/32551896", "way/32551897" ]
+  }, {
+    "id" : 154,
+    "IsEndPoint" : true,
+    "Point" : "POINT (11.6800288 48.2684762)",
+    "streetIds" : [ "way/33099593", "way/33099591" ]
+  }, {
+    "id" : 155,
+    "IsEndPoint" : true,
+    "Point" : "POINT (11.6815403 48.2677481)",
+    "streetIds" : [ "way/33099593" ]
+  }, {
+    "id" : 156,
+    "IsEndPoint" : true,
+    "Point" : "POINT (11.6630376 48.2678155)",
+    "streetIds" : [ "way/4046109", "way/47852796", "way/618206086" ]
+  }, {
+    "id" : 157,
+    "IsEndPoint" : true,
+    "Point" : "POINT (11.6626078 48.2679224)",
+    "streetIds" : [ "way/4046109", "way/425955555", "way/46717842", "way/617369302" ]
+  }, {
+    "id" : 158,
+    "IsEndPoint" : true,
+    "Point" : "POINT (11.6626078 48.2679224)",
+    "streetIds" : [ "way/46717842", "way/4046109", "way/425955555", "way/617369302" ]
+  }, {
+    "id" : 159,
+    "IsEndPoint" : true,
+    "Point" : "POINT (11.6629343 48.2682431)",
+    "streetIds" : [ "way/46717842", "way/425955553", "way/47852796" ]
+  }, {
+    "id" : 160,
+    "IsEndPoint" : true,
+    "Point" : "POINT (11.6630376 48.2678155)",
+    "streetIds" : [ "way/47852796", "way/4046109", "way/618206086" ]
+  }, {
+    "id" : 161,
+    "IsEndPoint" : true,
+    "Point" : "POINT (11.6629343 48.2682431)",
+    "streetIds" : [ "way/47852796", "way/425955553", "way/46717842" ]
+  }, {
+    "id" : 162,
+    "IsEndPoint" : true,
+    "Point" : "POINT (11.6629343 48.2682431)",
+    "streetIds" : [ "way/425955553", "way/46717842", "way/47852796" ]
+  }, {
+    "id" : 163,
+    "IsEndPoint" : true,
+    "Point" : "POINT (11.6630621 48.2683705)",
+    "streetIds" : [ "way/425955553", "way/486843893" ]
+  }, {
+    "id" : 164,
+    "IsEndPoint" : true,
+    "Point" : "POINT (11.6630621 48.2683705)",
+    "streetIds" : [ "way/486843893", "way/425955553" ]
+  }, {
+    "id" : 165,
+    "IsEndPoint" : true,
+    "Point" : "POINT (11.6632406 48.2685488)",
+    "streetIds" : [ "way/486843893", "way/47852794" ]
+  }, {
+    "id" : 166,
+    "IsEndPoint" : true,
+    "Point" : "POINT (11.6632406 48.2685488)",
+    "streetIds" : [ "way/47852794", "way/486843893" ]
+  }, {
+    "id" : 167,
+    "IsEndPoint" : true,
+    "Point" : "POINT (11.6657133 48.2709556)",
+    "streetIds" : [ "way/47852794", "way/425955554" ]
+  }, {
+    "id" : 168,
+    "IsEndPoint" : true,
+    "Point" : "POINT (11.6611488 48.2663675)",
+    "streetIds" : [ "way/435835283", "way/435834327" ]
+  }, {
+    "id" : 169,
+    "IsEndPoint" : true,
+    "Point" : "POINT (11.6614349 48.2666908)",
+    "streetIds" : [ "way/435835283", "way/425955556" ]
+  }, {
+    "id" : 170,
+    "IsEndPoint" : true,
+    "Point" : "POINT (11.6593641 48.2641283)",
+    "streetIds" : [ "way/435834327" ]
+  }, {
+    "id" : 171,
+    "IsEndPoint" : true,
+    "Point" : "POINT (11.6611488 48.2663675)",
+    "streetIds" : [ "way/435834327", "way/435835283" ]
+  }, {
+    "id" : 172,
+    "IsEndPoint" : true,
+    "Point" : "POINT (11.6692428 48.2670939)",
+    "streetIds" : [ "way/983606049" ]
+  }, {
+    "id" : 173,
+    "IsEndPoint" : true,
+    "Point" : "POINT (11.6692343 48.2670628)",
+    "streetIds" : [ "way/983606049", "way/46717843" ]
+  }, {
+    "id" : 174,
+    "IsEndPoint" : true,
+    "Point" : "POINT (11.670913 48.2680175)",
+    "streetIds" : [ "way/912372771" ]
+  }, {
+    "id" : 175,
+    "IsEndPoint" : true,
+    "Point" : "POINT (11.6711324 48.2679262)",
+    "streetIds" : [ "way/912372771", "way/727241267" ]
+  }, {
+    "id" : 176,
+    "IsEndPoint" : true,
+    "Point" : "POINT (11.6761428 48.2642604)",
+    "streetIds" : [ "way/996988021" ]
+  }, {
+    "id" : 177,
+    "IsEndPoint" : true,
+    "Point" : "POINT (11.6762208 48.2645527)",
+    "streetIds" : [ "way/996988021", "way/996776206" ]
+  } ],
+  "adjacencyList" : [ {
+    "id" : 0,
+    "adjacentIds" : [ 1, 5 ]
+  }, {
+    "id" : 1,
+    "adjacentIds" : [ 0, 2 ]
+  }, {
+    "id" : 2,
+    "adjacentIds" : [ 3, 1 ]
+  }, {
+    "id" : 3,
+    "adjacentIds" : [ 2, 7 ]
+  }, {
+    "id" : 4,
+    "adjacentIds" : [ 5, 106, 113 ]
+  }, {
+    "id" : 5,
+    "adjacentIds" : [ 4, 0 ]
+  }, {
+    "id" : 6,
+    "adjacentIds" : [ 7, 55 ]
+  }, {
+    "id" : 7,
+    "adjacentIds" : [ 6, 3 ]
+  }, {
+    "id" : 8,
+    "adjacentIds" : [ 9, 10, 11 ]
+  }, {
+    "id" : 9,
+    "adjacentIds" : [ 8, 12 ]
+  }, {
+    "id" : 10,
+    "adjacentIds" : [ 8, 77 ]
+  }, {
+    "id" : 11,
+    "adjacentIds" : [ 8, 70 ]
+  }, {
+    "id" : 12,
+    "adjacentIds" : [ 13, 9 ]
+  }, {
+    "id" : 13,
+    "adjacentIds" : [ 12, 25, 21 ]
+  }, {
+    "id" : 14,
+    "adjacentIds" : [ 15 ]
+  }, {
+    "id" : 15,
+    "adjacentIds" : [ 14, 16, 17 ]
+  }, {
+    "id" : 16,
+    "adjacentIds" : [ 15, 20, 19, 20 ]
+  }, {
+    "id" : 17,
+    "adjacentIds" : [ 15 ]
+  }, {
+    "id" : 18,
+    "adjacentIds" : [ 20, 57 ]
+  }, {
+    "id" : 19,
+    "adjacentIds" : [ 16 ]
+  }, {
+    "id" : 20,
+    "adjacentIds" : [ 21, 16, 18 ]
+  }, {
+    "id" : 21,
+    "adjacentIds" : [ 20, 25, 13 ]
+  }, {
+    "id" : 22,
+    "adjacentIds" : [ 23 ]
+  }, {
+    "id" : 23,
+    "adjacentIds" : [ 22, 24, 25 ]
+  }, {
+    "id" : 24,
+    "adjacentIds" : [ 23 ]
+  }, {
+    "id" : 25,
+    "adjacentIds" : [ 23, 21, 13 ]
+  }, {
+    "id" : 26,
+    "adjacentIds" : [ 27, 31 ]
+  }, {
+    "id" : 27,
+    "adjacentIds" : [ 26, 28, 33 ]
+  }, {
+    "id" : 28,
+    "adjacentIds" : [ 29, 27, 33 ]
+  }, {
+    "id" : 29,
+    "adjacentIds" : [ 28, 66 ]
+  }, {
+    "id" : 30,
+    "adjacentIds" : [ 31, 125 ]
+  }, {
+    "id" : 31,
+    "adjacentIds" : [ 30, 26 ]
+  }, {
+    "id" : 32,
+    "adjacentIds" : [ 33, 43 ]
+  }, {
+    "id" : 33,
+    "adjacentIds" : [ 32, 27, 28 ]
+  }, {
+    "id" : 34,
+    "adjacentIds" : [ 38, 41, 42 ]
+  }, {
+    "id" : 35,
+    "adjacentIds" : [ 38, 36 ]
+  }, {
+    "id" : 36,
+    "adjacentIds" : [ 47, 35 ]
+  }, {
+    "id" : 37,
+    "adjacentIds" : [ 47, 44 ]
+  }, {
+    "id" : 38,
+    "adjacentIds" : [ 39, 34, 35 ]
+  }, {
+    "id" : 39,
+    "adjacentIds" : [ 38, 54 ]
+  }, {
+    "id" : 40,
+    "adjacentIds" : [ 41, 145, 147 ]
+  }, {
+    "id" : 41,
+    "adjacentIds" : [ 40, 34, 42 ]
+  }, {
+    "id" : 42,
+    "adjacentIds" : [ 43, 34, 41 ]
+  }, {
+    "id" : 43,
+    "adjacentIds" : [ 42, 32 ]
+  }, {
+    "id" : 44,
+    "adjacentIds" : [ 45, 37 ]
+  }, {
+    "id" : 45,
+    "adjacentIds" : [ 44, 48 ]
+  }, {
+    "id" : 46,
+    "adjacentIds" : [ 47, 175 ]
+  }, {
+    "id" : 47,
+    "adjacentIds" : [ 46, 36, 37 ]
+  }, {
+    "id" : 48,
+    "adjacentIds" : [ 52, 45 ]
+  }, {
+    "id" : 49,
+    "adjacentIds" : [ 52, 50 ]
+  }, {
+    "id" : 50,
+    "adjacentIds" : [ 51, 49 ]
+  }, {
+    "id" : 51,
+    "adjacentIds" : [ 50, 61, 62 ]
+  }, {
+    "id" : 52,
+    "adjacentIds" : [ 53, 48, 49 ]
+  }, {
+    "id" : 53,
+    "adjacentIds" : [ 52, 105 ]
+  }, {
+    "id" : 54,
+    "adjacentIds" : [ 55, 39 ]
+  }, {
+    "id" : 55,
+    "adjacentIds" : [ 54, 6 ]
+  }, {
+    "id" : 56,
+    "adjacentIds" : [ 57, 59 ]
+  }, {
+    "id" : 57,
+    "adjacentIds" : [ 56, 18 ]
+  }, {
+    "id" : 58,
+    "adjacentIds" : [ 88, 92, 84 ]
+  }, {
+    "id" : 59,
+    "adjacentIds" : [ 88, 56 ]
+  }, {
+    "id" : 60,
+    "adjacentIds" : [ 61, 65 ]
+  }, {
+    "id" : 61,
+    "adjacentIds" : [ 60, 51, 62 ]
+  }, {
+    "id" : 62,
+    "adjacentIds" : [ 63, 61, 51 ]
+  }, {
+    "id" : 63,
+    "adjacentIds" : [ 62, 102, 104 ]
+  }, {
+    "id" : 64,
+    "adjacentIds" : [ 65, 115 ]
+  }, {
+    "id" : 65,
+    "adjacentIds" : [ 64, 60 ]
+  }, {
+    "id" : 66,
+    "adjacentIds" : [ 126, 29 ]
+  }, {
+    "id" : 67,
+    "adjacentIds" : [ 126, 128 ]
+  }, {
+    "id" : 68,
+    "adjacentIds" : [ 69 ]
+  }, {
+    "id" : 69,
+    "adjacentIds" : [ 68, 70, 75 ]
+  }, {
+    "id" : 70,
+    "adjacentIds" : [ 69, 11 ]
+  }, {
+    "id" : 71,
+    "adjacentIds" : [ 75, 72 ]
+  }, {
+    "id" : 72,
+    "adjacentIds" : [ 73, 71 ]
+  }, {
+    "id" : 73,
+    "adjacentIds" : [ 72, 138 ]
+  }, {
+    "id" : 74,
+    "adjacentIds" : [ 75, 143 ]
+  }, {
+    "id" : 75,
+    "adjacentIds" : [ 74, 69, 71 ]
+  }, {
+    "id" : 76,
+    "adjacentIds" : [ 77, 79, 80 ]
+  }, {
+    "id" : 77,
+    "adjacentIds" : [ 76, 10 ]
+  }, {
+    "id" : 78,
+    "adjacentIds" : [ 79, 131, 137 ]
+  }, {
+    "id" : 79,
+    "adjacentIds" : [ 78, 76, 80 ]
+  }, {
+    "id" : 80,
+    "adjacentIds" : [ 81, 76, 79 ]
+  }, {
+    "id" : 81,
+    "adjacentIds" : [ 80, 156, 160 ]
+  }, {
+    "id" : 82,
+    "adjacentIds" : [ 83, 85 ]
+  }, {
+    "id" : 83,
+    "adjacentIds" : [ 82, 86 ]
+  }, {
+    "id" : 84,
+    "adjacentIds" : [ 100, 92, 58 ]
+  }, {
+    "id" : 85,
+    "adjacentIds" : [ 99, 82 ]
+  }, {
+    "id" : 86,
+    "adjacentIds" : [ 87, 83 ]
+  }, {
+    "id" : 87,
+    "adjacentIds" : [ 86, 144 ]
+  }, {
+    "id" : 88,
+    "adjacentIds" : [ 89, 58, 59 ]
+  }, {
+    "id" : 89,
+    "adjacentIds" : [ 88, 90 ]
+  }, {
+    "id" : 90,
+    "adjacentIds" : [ 91, 89 ]
+  }, {
+    "id" : 91,
+    "adjacentIds" : [ 90 ]
+  }, {
+    "id" : 92,
+    "adjacentIds" : [ 93, 84, 58 ]
+  }, {
+    "id" : 93,
+    "adjacentIds" : [ 92 ]
+  }, {
+    "id" : 94,
+    "adjacentIds" : [ 95, 97 ]
+  }, {
+    "id" : 95,
+    "adjacentIds" : [ 94 ]
+  }, {
+    "id" : 96,
+    "adjacentIds" : [ 97, 167 ]
+  }, {
+    "id" : 97,
+    "adjacentIds" : [ 96, 94 ]
+  }, {
+    "id" : 98,
+    "adjacentIds" : [ 99 ]
+  }, {
+    "id" : 99,
+    "adjacentIds" : [ 98, 100, 85 ]
+  }, {
+    "id" : 100,
+    "adjacentIds" : [ 101, 84, 99 ]
+  }, {
+    "id" : 101,
+    "adjacentIds" : [ 100 ]
+  }, {
+    "id" : 102,
+    "adjacentIds" : [ 103, 63, 104 ]
+  }, {
+    "id" : 103,
+    "adjacentIds" : [ 102, 108 ]
+  }, {
+    "id" : 104,
+    "adjacentIds" : [ 105, 63, 102 ]
+  }, {
+    "id" : 105,
+    "adjacentIds" : [ 104, 53 ]
+  }, {
+    "id" : 106,
+    "adjacentIds" : [ 107, 113, 4 ]
+  }, {
+    "id" : 107,
+    "adjacentIds" : [ 106, 108, 109 ]
+  }, {
+    "id" : 108,
+    "adjacentIds" : [ 107, 103 ]
+  }, {
+    "id" : 109,
+    "adjacentIds" : [ 107, 110 ]
+  }, {
+    "id" : 110,
+    "adjacentIds" : [ 111, 109 ]
+  }, {
+    "id" : 111,
+    "adjacentIds" : [ 110, 154 ]
+  }, {
+    "id" : 112,
+    "adjacentIds" : [ 113, 153 ]
+  }, {
+    "id" : 113,
+    "adjacentIds" : [ 112, 106, 4 ]
+  }, {
+    "id" : 114,
+    "adjacentIds" : [ 115 ]
+  }, {
+    "id" : 115,
+    "adjacentIds" : [ 114, 64 ]
+  }, {
+    "id" : 116,
+    "adjacentIds" : [ 117 ]
+  }, {
+    "id" : 117,
+    "adjacentIds" : [ 116, 118 ]
+  }, {
+    "id" : 118,
+    "adjacentIds" : [ 119, 117 ]
+  }, {
+    "id" : 119,
+    "adjacentIds" : [ 118 ]
+  }, {
+    "id" : 120,
+    "adjacentIds" : [ 121, 129 ]
+  }, {
+    "id" : 121,
+    "adjacentIds" : [ 120, 123, 124, 127 ]
+  }, {
+    "id" : 122,
+    "adjacentIds" : [ 123, 149 ]
+  }, {
+    "id" : 123,
+    "adjacentIds" : [ 122, 121, 124, 127 ]
+  }, {
+    "id" : 124,
+    "adjacentIds" : [ 125, 121, 123, 127 ]
+  }, {
+    "id" : 125,
+    "adjacentIds" : [ 124, 30 ]
+  }, {
+    "id" : 126,
+    "adjacentIds" : [ 127, 66, 67 ]
+  }, {
+    "id" : 127,
+    "adjacentIds" : [ 126, 121, 123, 124 ]
+  }, {
+    "id" : 128,
+    "adjacentIds" : [ 129, 67 ]
+  }, {
+    "id" : 129,
+    "adjacentIds" : [ 128, 120 ]
+  }, {
+    "id" : 130,
+    "adjacentIds" : [ 131, 132, 135 ]
+  }, {
+    "id" : 131,
+    "adjacentIds" : [ 130, 137, 78 ]
+  }, {
+    "id" : 132,
+    "adjacentIds" : [ 133, 130, 135 ]
+  }, {
+    "id" : 133,
+    "adjacentIds" : [ 132, 157, 158, 136 ]
+  }, {
+    "id" : 134,
+    "adjacentIds" : [ 135, 169 ]
+  }, {
+    "id" : 135,
+    "adjacentIds" : [ 134, 130, 132 ]
+  }, {
+    "id" : 136,
+    "adjacentIds" : [ 137, 157, 133, 158 ]
+  }, {
+    "id" : 137,
+    "adjacentIds" : [ 136, 131, 78 ]
+  }, {
+    "id" : 138,
+    "adjacentIds" : [ 139, 73 ]
+  }, {
+    "id" : 139,
+    "adjacentIds" : [ 138, 146 ]
+  }, {
+    "id" : 140,
+    "adjacentIds" : [ 141 ]
+  }, {
+    "id" : 141,
+    "adjacentIds" : [ 140, 142 ]
+  }, {
+    "id" : 142,
+    "adjacentIds" : [ 143, 141 ]
+  }, {
+    "id" : 143,
+    "adjacentIds" : [ 142, 74 ]
+  }, {
+    "id" : 144,
+    "adjacentIds" : [ 145, 87 ]
+  }, {
+    "id" : 145,
+    "adjacentIds" : [ 144, 40, 147 ]
+  }, {
+    "id" : 146,
+    "adjacentIds" : [ 173, 139 ]
+  }, {
+    "id" : 147,
+    "adjacentIds" : [ 173, 40, 145 ]
+  }, {
+    "id" : 148,
+    "adjacentIds" : [ 149, 151 ]
+  }, {
+    "id" : 149,
+    "adjacentIds" : [ 148, 122 ]
+  }, {
+    "id" : 150,
+    "adjacentIds" : [ 151, 177 ]
+  }, {
+    "id" : 151,
+    "adjacentIds" : [ 150, 148 ]
+  }, {
+    "id" : 152,
+    "adjacentIds" : [ 153 ]
+  }, {
+    "id" : 153,
+    "adjacentIds" : [ 152, 112 ]
+  }, {
+    "id" : 154,
+    "adjacentIds" : [ 155, 111 ]
+  }, {
+    "id" : 155,
+    "adjacentIds" : [ 154 ]
+  }, {
+    "id" : 156,
+    "adjacentIds" : [ 157, 160, 81 ]
+  }, {
+    "id" : 157,
+    "adjacentIds" : [ 156, 133, 158, 136 ]
+  }, {
+    "id" : 158,
+    "adjacentIds" : [ 159, 157, 133, 136 ]
+  }, {
+    "id" : 159,
+    "adjacentIds" : [ 158, 162, 161 ]
+  }, {
+    "id" : 160,
+    "adjacentIds" : [ 161, 156, 81 ]
+  }, {
+    "id" : 161,
+    "adjacentIds" : [ 160, 162, 159 ]
+  }, {
+    "id" : 162,
+    "adjacentIds" : [ 163, 159, 161 ]
+  }, {
+    "id" : 163,
+    "adjacentIds" : [ 162, 164 ]
+  }, {
+    "id" : 164,
+    "adjacentIds" : [ 165, 163 ]
+  }, {
+    "id" : 165,
+    "adjacentIds" : [ 164, 166 ]
+  }, {
+    "id" : 166,
+    "adjacentIds" : [ 167, 165 ]
+  }, {
+    "id" : 167,
+    "adjacentIds" : [ 166, 96 ]
+  }, {
+    "id" : 168,
+    "adjacentIds" : [ 169, 171 ]
+  }, {
+    "id" : 169,
+    "adjacentIds" : [ 168, 134 ]
+  }, {
+    "id" : 170,
+    "adjacentIds" : [ 171 ]
+  }, {
+    "id" : 171,
+    "adjacentIds" : [ 170, 168 ]
+  }, {
+    "id" : 172,
+    "adjacentIds" : [ 173 ]
+  }, {
+    "id" : 173,
+    "adjacentIds" : [ 172, 146, 147 ]
+  }, {
+    "id" : 174,
+    "adjacentIds" : [ 175 ]
+  }, {
+    "id" : 175,
+    "adjacentIds" : [ 174, 46 ]
+  }, {
+    "id" : 176,
+    "adjacentIds" : [ 177 ]
+  }, {
+    "id" : 177,
+    "adjacentIds" : [ 176, 150 ]
+  } ]
+}

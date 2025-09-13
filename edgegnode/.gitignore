@@ -1,0 +1,21 @@
+# Ignore Gradle project-specific cache directory
+.gradle
+
+# Ignore .vscode setup
+.vscode
+
+# Ignore Gradle build output directory
+build
+
+path.json
+path0.json
+path1.json
+path*.json
+res.json
+weights*.json
+test*.geojson
+test*.json
+Demo*.json
+# Believe this shouldn't be pushed, feel free to remove if not the case
+app/data/weights.json
+app/bin

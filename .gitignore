@@ -1,0 +1,14 @@
+# Ignore backup of embedded git directories
+**/.git.BACKUP_EMBEDDED/
+
+# OS/editor cruft
+.DS_Store
+Thumbs.db
+*.swp
+*.swo
+*.log
+node_modules/
+dist/
+build/
+.env
+.env.*

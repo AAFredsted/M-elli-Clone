@@ -1,0 +1,31 @@
+{
+	"name": "muelli-frontend",
+	"version": "1.0.0",
+	"type": "module",
+	"scripts": {
+		"start": "vite",
+		"build": "NODE_ENV=prod vite build",
+		"build:test": "NODE_ENV=test vite build",
+		"serve": "vite preview",
+		"test": "npx playwright test"
+	},
+	"devDependencies": {
+		"@eslint/js": "^9.18.0",
+		"@playwright/test": "^1.48.2",
+		"@types/node": "^22.9.0",
+		"eslint": "^9.18.0",
+		"eslint-config-prettier": "^10.0.1",
+		"globals": "^15.14.0",
+		"prettier": "3.4.2",
+		"vite": "^5.4.10",
+		"vite-plugin-static-copy": "^2.1.0"
+	},
+	"dependencies": {
+		"@turf/turf": "^7.1.0",
+		"express": "^4.21.1",
+		"fs": "^0.0.1-security",
+		"ol": "^10.2.1",
+		"proj4": "^2.14.0",
+		"ws": "^8.18.0"
+	}
+}

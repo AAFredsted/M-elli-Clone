@@ -1,0 +1,24 @@
+stages:
+  - test
+  - deploy
+
+frontend-test-job:
+  image: gitlab.lrz.de:5005/sgc/muelli/playwright-runner
+  stage: test
+  environment: CI
+  script:
+    - cd muelli-frontend
+    - npm ci  
+    - npm run test
+
+
+deploy-job:
+  image: quay.io/podman/stable:v5.2.5
+  stage: deploy
+  environment: production
+  script:
+    - mkdir -p /etc/containers/registries.conf.d
+    - echo 'unqualified-search-registries = ["docker.io"]' > /etc/containers/registries.conf.d/01-unqualified-docker.conf
+    - echo "$CI_REGISTRY_PASSWORD" | podman login $CI_REGISTRY -u $CI_REGISTRY_USER --password-stdin
+    - podman build --platform linux/arm64,linux/amd64 --no-cache --manifest $CI_REGISTRY/sgc/frontend --file Dockerfile.frontend .
+    - podman manifest push $CI_REGISTRY/sgc/frontend

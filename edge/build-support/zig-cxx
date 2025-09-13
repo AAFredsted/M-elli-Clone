@@ -1,0 +1,5 @@
+#!/bin/sh
+set -euo pipefail
+this_dir="$(dirname "$0")"
+
+zig c++ -target "$("$this_dir/convert-target" $TARGETPLATFORM)" "$@"

@@ -1,0 +1,61 @@
+<!doctype html>
+<html lang="en">
+	<head>
+		<meta charset="UTF-8" />
+		<link rel="icon" type="image/x-icon" href="https://openlayers.org/favicon.ico" />
+		<meta name="viewport" content="width=device-width, initial-scale=1.0" />
+		<title>MülliFrontend</title>
+		<link rel="preconnect" href="https://fonts.googleapis.com">
+		<link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
+		<link href="https://fonts.googleapis.com/css2?family=Lato:ital,wght@0,100;0,300;0,400;0,700;0,900;1,100;1,300;1,400;1,700;1,900&display=swap" rel="stylesheet">
+		<link rel="stylesheet" href="./src/style.css" />
+	</head>
+	<body>
+		<header id="muelli-header">
+			<h1>Mülli Frontend</h1>
+			<button id="muelli-about">About</button>
+		</header>
+		<div id="map">
+			<div id="map-legend">
+				<h3>Current Routes</h3>
+				<div id="cycleToggles"></div>
+			  </div>
+		</div>
+		<div id="ol-attribution">
+			<a href="https://www.bkg.bund.de/DE/Home/home.html">© Datenquellen: Bayerische Vermessungsverwaltung, GeoBasis-DE / BKG 2023 -Daten verändert</a>
+		</div>
+		<div id="popup"></div>
+		<dialog id="muelli-about-dialog">
+			<div id="muelli-dialog-content">
+				<h1>About Mülli</h1>
+				<p>
+					Mülli is a project for the
+					<a href="https://www.ce.cit.tum.de/cm/teaching/winter-term-2024-25/edge-computing-and-the-iot/">Master Practical Course: Edge Computing and the Internet of Things</a>
+					<br />
+					It is an attempt at creating a smart routing system for garbage trucks using a distributed network of IOT-devices connected to garbage cans. Each garbage node (gnode) communicates
+					its relative weight to an edge node over the COAP protocol, which then computes an optimal cycle for a garbage truck to drive through before sending this path to this website over
+					http.
+				</p>
+			</div>
+		</dialog>
+		<script type="module" src="./src/map.js"></script>
+		<script type="module" src="./src/websocket.js"></script>
+		
+		<script>
+			const aboutButton = document.querySelector("#muelli-about");
+			const aboutDialog = document.querySelector("#muelli-about-dialog");
+			const aboutDialogContent = document.querySelector("#muelli-dialog-content");
+
+			aboutButton.addEventListener("click", (event) => {
+				event.stopPropagation();
+				aboutDialog.showModal();
+			});
+
+			aboutDialog.addEventListener("click", (event) => {
+				if (!aboutDialogContent.contains(event.target)) {
+					aboutDialog.close();
+				}
+			});
+		</script>
+	</body>
+</html>

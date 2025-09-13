@@ -1,0 +1,42 @@
+stages: 
+  - deps
+  - deploy
+
+deps-amd64:
+  image: quay.io/podman/stable:v5.2.5
+  stage: deps
+  environment: production
+  rules:
+    - changes:
+      - Dockerfile.deps
+  script:
+    - mkdir -p /etc/containers/registries.conf.d
+    - echo 'unqualified-search-registries = ["docker.io"]' > /etc/containers/registries.conf.d/01-unqualified-docker.conf
+    - echo "$CI_REGISTRY_PASSWORD" | podman login gitlab.lrz.de:5005/sgc/edge -u $CI_REGISTRY_USER --password-stdin
+    - podman build --platform linux/amd64 --no-cache --tag $CI_REGISTRY/sgc/edge/deps:amd64 --file Dockerfile.deps .
+    - podman push $CI_REGISTRY/sgc/edge/deps:amd64
+
+deps-arm64:
+  image: quay.io/podman/stable:v5.2.5
+  stage: deps
+  environment: production
+  rules:
+    - changes:
+      - Dockerfile.deps
+  script:
+    - mkdir -p /etc/containers/registries.conf.d
+    - echo 'unqualified-search-registries = ["docker.io"]' > /etc/containers/registries.conf.d/01-unqualified-docker.conf
+    - echo "$CI_REGISTRY_PASSWORD" | podman login gitlab.lrz.de:5005/sgc/edge -u $CI_REGISTRY_USER --password-stdin
+    - podman build --platform linux/arm64 --no-cache --tag $CI_REGISTRY/sgc/edge/deps:arm64 --file Dockerfile.deps .
+    - podman push $CI_REGISTRY/sgc/edge/deps:arm64
+
+deploy-job:
+  image: quay.io/podman/stable:v5.2.5
+  stage: deploy
+  environment: production
+  script:
+    - mkdir -p /etc/containers/registries.conf.d
+    - echo 'unqualified-search-registries = ["docker.io"]' > /etc/containers/registries.conf.d/01-unqualified-docker.conf
+    - echo "$CI_REGISTRY_PASSWORD" | podman login gitlab.lrz.de:5005/sgc/edge -u $CI_REGISTRY_USER --password-stdin
+    - podman build --platform linux/arm64,linux/amd64 --no-cache --manifest $CI_REGISTRY/sgc/edge/edgecoap --file Dockerfile.coap .
+    - podman manifest push $CI_REGISTRY/sgc/edge/edgecoap

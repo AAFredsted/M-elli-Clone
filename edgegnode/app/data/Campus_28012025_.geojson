@@ -1,0 +1,4141 @@
+{
+    "type": "FeatureCollection",
+    "generator": "overpass-turbo",
+    "copyright": "The data included in this document is from www.openstreetmap.org. The data is made available under ODbL.",
+    "timestamp": "2025-01-28T17:54:01Z",
+    "features": [
+      {
+        "type": "Feature",
+        "properties": {
+          "@id": "way/4046046",
+          "cycleway:both": "separate",
+          "foot": "use_sidepath",
+          "highway": "unclassified",
+          "lane_markings": "no",
+          "lit": "yes",
+          "maxspeed": "50",
+          "name": "Ludwig-Prandtl-Straße",
+          "parking:both": "no",
+          "sidewalk": "separate",
+          "smoothness": "good",
+          "source:width": "ARCore",
+          "surface": "asphalt",
+          "width": "8.9"
+        },
+        "geometry": {
+          "type": "LineString",
+          "coordinates": [
+            [
+              11.6697908,
+              48.2611491
+            ],
+            [
+              11.6697248,
+              48.2611131
+            ],
+            [
+              11.6696378,
+              48.261089
+            ],
+            [
+              11.6695395,
+              48.2610857
+            ],
+            [
+              11.6690911,
+              48.2611411
+            ],
+            [
+              11.6689463,
+              48.2611605
+            ],
+            [
+              11.6684696,
+              48.261219
+            ],
+            [
+              11.6669648,
+              48.2613978
+            ],
+            [
+              11.6661199,
+              48.2615
+            ]
+          ]
+        },
+        "id": "way/4046046"
+      },
+      {
+        "type": "Feature",
+        "properties": {
+          "@id": "way/4046109",
+          "cycleway:both": "no",
+          "foot": "yes",
+          "highway": "unclassified",
+          "lanes": "2",
+          "lit": "no",
+          "maxspeed": "50",
+          "name": "Lichtenbergstraße",
+          "oneway": "yes",
+          "parking:both": "no",
+          "sidewalk": "no",
+          "smoothness": "good",
+          "surface": "asphalt"
+        },
+        "geometry": {
+          "type": "LineString",
+          "coordinates": [
+            [
+              11.6630376,
+              48.2678155
+            ],
+            [
+              11.6629638,
+              48.2678361
+            ],
+            [
+              11.6627171,
+              48.2678996
+            ],
+            [
+              11.6626078,
+              48.2679224
+            ]
+          ]
+        },
+        "id": "way/4046109"
+      },
+      {
+        "type": "Feature",
+        "properties": {
+          "@id": "way/10697389",
+          "cycleway:both": "no",
+          "highway": "residential",
+          "lane_markings": "no",
+          "lit": "yes",
+          "name": "Römerhofweg",
+          "sidewalk": "left",
+          "sidewalk:left:surface": "asphalt",
+          "smoothness": "good",
+          "surface": "asphalt"
+        },
+        "geometry": {
+          "type": "LineString",
+          "coordinates": [
+            [
+              11.6611156,
+              48.2621011
+            ],
+            [
+              11.6610954,
+              48.2620182
+            ],
+            [
+              11.6609728,
+              48.2615209
+            ],
+            [
+              11.6608627,
+              48.2610708
+            ],
+            [
+              11.6608012,
+              48.2608743
+            ],
+            [
+              11.6607896,
+              48.260826
+            ],
+            [
+              11.6607143,
+              48.2605827
+            ],
+            [
+              11.6606331,
+              48.2603475
+            ],
+            [
+              11.6605344,
+              48.260157
+            ],
+            [
+              11.6603258,
+              48.2598713
+            ],
+            [
+              11.6601566,
+              48.2596428
+            ]
+          ]
+        },
+        "id": "way/10697389"
+      },
+      {
+        "type": "Feature",
+        "properties": {
+          "@id": "way/10699842",
+          "highway": "service",
+          "sidewalk": "right",
+          "sidewalk:right:surface": "paving_stones",
+          "smoothness": "good",
+          "surface": "asphalt"
+        },
+        "geometry": {
+          "type": "LineString",
+          "coordinates": [
+            [
+              11.6621886,
+              48.2601928
+            ],
+            [
+              11.6622285,
+              48.2603413
+            ],
+            [
+              11.6622721,
+              48.2604975
+            ],
+            [
+              11.6622875,
+              48.2605608
+            ],
+            [
+              11.6622861,
+              48.2606118
+            ],
+            [
+              11.6621942,
+              48.2606758
+            ],
+            [
+              11.6620363,
+              48.2607229
+            ],
+            [
+              11.661885,
+              48.2607414
+            ],
+            [
+              11.6608012,
+              48.2608743
+            ]
+          ]
+        },
+        "id": "way/10699842"
+      },
+      {
+        "type": "Feature",
+        "properties": {
+          "@id": "way/13863869",
+          "cycleway:both": "no",
+          "highway": "residential",
+          "lane_markings": "no",
+          "maxspeed": "50",
+          "name": "Hans-Kopfermann-Straße",
+          "sidewalk": "no",
+          "source:maxspeed": "DE:urban",
+          "surface": "asphalt"
+        },
+        "geometry": {
+          "type": "LineString",
+          "coordinates": [
+            [
+              11.6690911,
+              48.2611411
+            ],
+            [
+              11.6690734,
+              48.2610637
+            ],
+            [
+              11.66906,
+              48.260984
+            ],
+            [
+              11.6690618,
+              48.2609355
+            ],
+            [
+              11.6690746,
+              48.2609019
+            ],
+            [
+              11.6690984,
+              48.2608708
+            ],
+            [
+              11.6691956,
+              48.2607929
+            ],
+            [
+              11.6693552,
+              48.2606894
+            ],
+            [
+              11.6693887,
+              48.2606617
+            ],
+            [
+              11.6694168,
+              48.2606269
+            ],
+            [
+              11.6694365,
+              48.2605717
+            ],
+            [
+              11.6694375,
+              48.2605212
+            ],
+            [
+              11.6694229,
+              48.2604576
+            ],
+            [
+              11.6693563,
+              48.2603189
+            ],
+            [
+              11.6692951,
+              48.2602375
+            ],
+            [
+              11.6692286,
+              48.2601626
+            ],
+            [
+              11.6690249,
+              48.2600256
+            ],
+            [
+              11.6687318,
+              48.2598917
+            ],
+            [
+              11.6686133,
+              48.2598594
+            ],
+            [
+              11.6685467,
+              48.2598593
+            ]
+          ]
+        },
+        "id": "way/13863869"
+      },
+      {
+        "type": "Feature",
+        "properties": {
+          "@id": "way/13863892",
+          "cycleway:both": "no",
+          "highway": "residential",
+          "lane_markings": "no",
+          "lit": "yes",
+          "maxspeed": "50",
+          "name": "Karl-Schwarzschild-Straße",
+          "source:maxspeed": "DE:urban",
+          "surface": "asphalt"
+        },
+        "geometry": {
+          "type": "LineString",
+          "coordinates": [
+            [
+              11.6697908,
+              48.2611491
+            ],
+            [
+              11.6698761,
+              48.2610953
+            ],
+            [
+              11.6701155,
+              48.2610073
+            ],
+            [
+              11.6704648,
+              48.2609503
+            ],
+            [
+              11.6708013,
+              48.2608954
+            ],
+            [
+              11.670923,
+              48.2608624
+            ]
+          ]
+        },
+        "id": "way/13863892"
+      },
+      {
+        "type": "Feature",
+        "properties": {
+          "@id": "way/13864091",
+          "highway": "service",
+          "surface": "asphalt"
+        },
+        "geometry": {
+          "type": "LineString",
+          "coordinates": [
+            [
+              11.6685467,
+              48.2598593
+            ],
+            [
+              11.6685024,
+              48.2598842
+            ],
+            [
+              11.6684587,
+              48.2599256
+            ],
+            [
+              11.6683188,
+              48.2600633
+            ],
+            [
+              11.6682947,
+              48.2600863
+            ],
+            [
+              11.6682561,
+              48.2601028
+            ],
+            [
+              11.6681382,
+              48.2601243
+            ],
+            [
+              11.6678948,
+              48.260148
+            ],
+            [
+              11.6678049,
+              48.2601569
+            ],
+            [
+              11.6677186,
+              48.2601662
+            ],
+            [
+              11.6675146,
+              48.2602613
+            ],
+            [
+              11.6672847,
+              48.2602895
+            ],
+            [
+              11.6666485,
+              48.2603657
+            ],
+            [
+              11.6664659,
+              48.2603894
+            ]
+          ]
+        },
+        "id": "way/13864091"
+      },
+      {
+        "type": "Feature",
+        "properties": {
+          "@id": "way/14391389",
+          "cycleway:both": "separate",
+          "foot": "use_sidepath",
+          "highway": "unclassified",
+          "lanes": "2",
+          "lit": "yes",
+          "maxspeed": "50",
+          "name": "Boltzmannstraße",
+          "parking:both": "no",
+          "psv": "yes",
+          "sidewalk": "separate",
+          "smoothness": "good",
+          "surface": "asphalt"
+        },
+        "geometry": {
+          "type": "LineString",
+          "coordinates": [
+            [
+              11.6697908,
+              48.2611491
+            ],
+            [
+              11.6698543,
+              48.2612506
+            ],
+            [
+              11.6699718,
+              48.2615372
+            ],
+            [
+              11.6702146,
+              48.2621816
+            ],
+            [
+              11.6703521,
+              48.2625407
+            ],
+            [
+              11.6707401,
+              48.2634895
+            ],
+            [
+              11.6708109,
+              48.2636784
+            ],
+            [
+              11.670823,
+              48.263711
+            ],
+            [
+              11.6708462,
+              48.2637804
+            ],
+            [
+              11.670894,
+              48.2638995
+            ],
+            [
+              11.6709785,
+              48.2641391
+            ],
+            [
+              11.6710812,
+              48.2645067
+            ]
+          ]
+        },
+        "id": "way/14391389"
+      },
+      {
+        "type": "Feature",
+        "properties": {
+          "@id": "way/14854197",
+          "bicycle": "yes",
+          "cycleway:both": "no",
+          "highway": "residential",
+          "lane_markings": "no",
+          "lit": "yes",
+          "maxspeed": "50",
+          "name": "Boltzmannstraße",
+          "parking:both": "no",
+          "sidewalk:left": "no",
+          "sidewalk:right": "separate",
+          "smoothness": "good",
+          "surface": "asphalt",
+          "width": "6"
+        },
+        "geometry": {
+          "type": "LineString",
+          "coordinates": [
+            [
+              11.6729228,
+              48.2684621
+            ],
+            [
+              11.6731186,
+              48.2692019
+            ],
+            [
+              11.6731354,
+              48.269264
+            ]
+          ]
+        },
+        "id": "way/14854197"
+      },
+      {
+        "type": "Feature",
+        "properties": {
+          "@id": "way/15598996",
+          "cycleway:both": "no",
+          "highway": "residential",
+          "lane_markings": "no",
+          "lit": "yes",
+          "maxspeed": "50",
+          "name": "Am Coulombwall",
+          "parking:left": "no",
+          "parking:right": "separate",
+          "sidewalk": "separate",
+          "surface": "asphalt"
+        },
+        "geometry": {
+          "type": "LineString",
+          "coordinates": [
+            [
+              11.6731354,
+              48.269264
+            ],
+            [
+              11.6733123,
+              48.2692525
+            ],
+            [
+              11.6747462,
+              48.2690857
+            ],
+            [
+              11.6749355,
+              48.2690629
+            ],
+            [
+              11.6751275,
+              48.2690395
+            ]
+          ]
+        },
+        "id": "way/15598996"
+      },
+      {
+        "type": "Feature",
+        "properties": {
+          "@id": "way/22993146",
+          "cycleway:both": "no",
+          "highway": "residential",
+          "lane_markings": "no",
+          "name": "Am Coulombwall",
+          "parking:both": "no",
+          "sidewalk": "no",
+          "surface": "asphalt"
+        },
+        "geometry": {
+          "type": "LineString",
+          "coordinates": [
+            [
+              11.6774732,
+              48.2687579
+            ],
+            [
+              11.6777851,
+              48.2687233
+            ],
+            [
+              11.6778514,
+              48.2687607
+            ],
+            [
+              11.6778986,
+              48.2687853
+            ],
+            [
+              11.677944,
+              48.2688047
+            ],
+            [
+              11.6780209,
+              48.2688322
+            ],
+            [
+              11.6780675,
+              48.2688488
+            ],
+            [
+              11.6781227,
+              48.2688618
+            ],
+            [
+              11.6781585,
+              48.2688646
+            ],
+            [
+              11.6782001,
+              48.2688639
+            ],
+            [
+              11.6782362,
+              48.2688606
+            ],
+            [
+              11.6783754,
+              48.2688432
+            ],
+            [
+              11.6787241,
+              48.2688017
+            ],
+            [
+              11.6788756,
+              48.2687845
+            ],
+            [
+              11.6789738,
+              48.2687733
+            ],
+            [
+              11.6790851,
+              48.2687593
+            ],
+            [
+              11.6791567,
+              48.2687506
+            ],
+            [
+              11.6792134,
+              48.2687466
+            ],
+            [
+              11.6792798,
+              48.2687453
+            ],
+            [
+              11.6793474,
+              48.2687485
+            ],
+            [
+              11.6794414,
+              48.268755
+            ],
+            [
+              11.6795216,
+              48.2687619
+            ],
+            [
+              11.6795814,
+              48.268763
+            ],
+            [
+              11.679644,
+              48.2687578
+            ],
+            [
+              11.6796819,
+              48.2687523
+            ],
+            [
+              11.6797177,
+              48.2687443
+            ],
+            [
+              11.6797494,
+              48.2687342
+            ],
+            [
+              11.6797782,
+              48.2687192
+            ],
+            [
+              11.6798009,
+              48.2687042
+            ],
+            [
+              11.6798325,
+              48.2686786
+            ],
+            [
+              11.6798913,
+              48.2686217
+            ],
+            [
+              11.6799483,
+              48.2685621
+            ]
+          ]
+        },
+        "id": "way/22993146"
+      },
+      {
+        "type": "Feature",
+        "properties": {
+          "@id": "way/23316537",
+          "highway": "track",
+          "motorcar": "no",
+          "surface": "asphalt",
+          "tracktype": "grade1"
+        },
+        "geometry": {
+          "type": "LineString",
+          "coordinates": [
+            [
+              11.6781051,
+              48.2663974
+            ],
+            [
+              11.6782063,
+              48.2663895
+            ],
+            [
+              11.6782997,
+              48.2663922
+            ],
+            [
+              11.67837,
+              48.2664079
+            ],
+            [
+              11.6784279,
+              48.2664432
+            ],
+            [
+              11.6784787,
+              48.2664964
+            ],
+            [
+              11.6786254,
+              48.2667674
+            ],
+            [
+              11.6787559,
+              48.2670265
+            ],
+            [
+              11.6788384,
+              48.2673076
+            ],
+            [
+              11.6787865,
+              48.2675529
+            ],
+            [
+              11.6787331,
+              48.2677315
+            ],
+            [
+              11.6787431,
+              48.2679447
+            ],
+            [
+              11.6787514,
+              48.2681685
+            ],
+            [
+              11.6788078,
+              48.2684471
+            ],
+            [
+              11.6788477,
+              48.2686508
+            ],
+            [
+              11.6788756,
+              48.2687845
+            ]
+          ]
+        },
+        "id": "way/23316537"
+      },
+      {
+        "type": "Feature",
+        "properties": {
+          "@id": "way/23316540",
+          "cycleway:both": "no",
+          "highway": "residential",
+          "lane_markings": "no",
+          "lit": "yes",
+          "maxspeed": "50",
+          "name": "Ernst-Otto-Fischer-Straße",
+          "parking:both": "no",
+          "sidewalk": "no",
+          "smoothness": "good",
+          "source:maxspeed": "DE:urban",
+          "source:width": "ARCore",
+          "surface": "asphalt",
+          "width": "6"
+        },
+        "geometry": {
+          "type": "LineString",
+          "coordinates": [
+            [
+              11.6694714,
+              48.2697007
+            ],
+            [
+              11.6698252,
+              48.2696554
+            ],
+            [
+              11.6702397,
+              48.2696069
+            ]
+          ]
+        },
+        "id": "way/23316540"
+      },
+      {
+        "type": "Feature",
+        "properties": {
+          "@id": "way/23316541",
+          "cycleway:both": "no",
+          "highway": "residential",
+          "lane_markings": "no",
+          "lit": "yes",
+          "maxspeed": "50",
+          "name": "Ernst-Otto-Fischer-Straße",
+          "parking:both": "no",
+          "sidewalk:left": "no",
+          "sidewalk:right": "separate",
+          "smoothness": "good",
+          "surface": "asphalt",
+          "width": "6"
+        },
+        "geometry": {
+          "type": "LineString",
+          "coordinates": [
+            [
+              11.6702397,
+              48.2696069
+            ],
+            [
+              11.6706092,
+              48.2695637
+            ],
+            [
+              11.6708661,
+              48.2695332
+            ],
+            [
+              11.6710213,
+              48.2695147
+            ],
+            [
+              11.6711837,
+              48.2694955
+            ],
+            [
+              11.671332,
+              48.2694779
+            ],
+            [
+              11.671504,
+              48.2694575
+            ],
+            [
+              11.6716501,
+              48.2694402
+            ],
+            [
+              11.6717209,
+              48.2694318
+            ],
+            [
+              11.6721696,
+              48.2693786
+            ]
+          ]
+        },
+        "id": "way/23316541"
+      },
+      {
+        "type": "Feature",
+        "properties": {
+          "@id": "way/23316553",
+          "highway": "path",
+          "surface": "asphalt"
+        },
+        "geometry": {
+          "type": "LineString",
+          "coordinates": [
+            [
+              11.6684894,
+              48.2696343
+            ],
+            [
+              11.6681618,
+              48.2696721
+            ]
+          ]
+        },
+        "id": "way/23316553"
+      },
+      {
+        "type": "Feature",
+        "properties": {
+          "@id": "way/26583189",
+          "cycleway:both": "no",
+          "emergency": "designated",
+          "highway": "living_street",
+          "lit": "yes",
+          "maxspeed:type": "sign",
+          "name": "Walther-von-Dyck-Straße",
+          "oneway": "yes",
+          "parking:left": "separate",
+          "parking:right": "no",
+          "smoothness": "excellent",
+          "source:width": "ARCore",
+          "surface": "asphalt",
+          "width": "4.3"
+        },
+        "geometry": {
+          "type": "LineString",
+          "coordinates": [
+            [
+              11.6726763,
+              48.264392
+            ],
+            [
+              11.6727121,
+              48.2645316
+            ],
+            [
+              11.6728221,
+              48.2649612
+            ]
+          ]
+        },
+        "id": "way/26583189"
+      },
+      {
+        "type": "Feature",
+        "properties": {
+          "@id": "way/28759280",
+          "cycleway:both": "no",
+          "destination": "Hochschul- und Forschungszentrum/TUM Zufahrt Nord",
+          "foot": "yes",
+          "highway": "unclassified",
+          "lanes": "1",
+          "lit": "no",
+          "maxspeed": "50",
+          "noname": "yes",
+          "oneway": "yes",
+          "parking:both": "no",
+          "sidewalk": "no",
+          "smoothness": "good",
+          "surface": "asphalt"
+        },
+        "geometry": {
+          "type": "LineString",
+          "coordinates": [
+            [
+              11.6622856,
+              48.2675856
+            ],
+            [
+              11.6624842,
+              48.2676695
+            ],
+            [
+              11.6625487,
+              48.2677076
+            ],
+            [
+              11.6625966,
+              48.2677292
+            ],
+            [
+              11.6626251,
+              48.267744
+            ],
+            [
+              11.6626673,
+              48.2677589
+            ],
+            [
+              11.6627224,
+              48.267771
+            ],
+            [
+              11.6627664,
+              48.2677795
+            ],
+            [
+              11.6628578,
+              48.2677854
+            ]
+          ]
+        },
+        "id": "way/28759280"
+      },
+      {
+        "type": "Feature",
+        "properties": {
+          "@id": "way/30571475",
+          "cycleway:both": "no",
+          "highway": "unclassified",
+          "lane_markings": "no",
+          "lit": "yes",
+          "maxspeed": "50",
+          "name": "Lichtenbergstraße",
+          "parking:both": "no",
+          "sidewalk:both": "separate",
+          "smoothness": "good",
+          "surface": "asphalt"
+        },
+        "geometry": {
+          "type": "LineString",
+          "coordinates": [
+            [
+              11.6675912,
+              48.2672556
+            ],
+            [
+              11.667858,
+              48.2672231
+            ],
+            [
+              11.6679274,
+              48.2672153
+            ]
+          ]
+        },
+        "id": "way/30571475"
+      },
+      {
+        "type": "Feature",
+        "properties": {
+          "@id": "way/30571481",
+          "highway": "service",
+          "lanes": "1",
+          "oneway": "yes",
+          "surface": "asphalt",
+          "width": "3"
+        },
+        "geometry": {
+          "type": "LineString",
+          "coordinates": [
+            [
+              11.6679221,
+              48.2696244
+            ],
+            [
+              11.6676552,
+              48.2695309
+            ]
+          ]
+        },
+        "id": "way/30571481"
+      },
+      {
+        "type": "Feature",
+        "properties": {
+          "@id": "way/30571483",
+          "highway": "service",
+          "lanes": "1",
+          "oneway": "yes",
+          "surface": "asphalt"
+        },
+        "geometry": {
+          "type": "LineString",
+          "coordinates": [
+            [
+              11.6681618,
+              48.2696721
+            ],
+            [
+              11.6680748,
+              48.2696563
+            ]
+          ]
+        },
+        "id": "way/30571483"
+      },
+      {
+        "type": "Feature",
+        "properties": {
+          "@id": "way/30610971",
+          "bicycle": "yes",
+          "cycleway:both": "no",
+          "highway": "residential",
+          "lane_markings": "no",
+          "lit": "yes",
+          "maxspeed": "50",
+          "name": "Lichtenbergstraße",
+          "parking:both": "no",
+          "sidewalk": "separate",
+          "smoothness": "good",
+          "source:maxspeed": "DE:urban",
+          "surface": "asphalt",
+          "width": "7"
+        },
+        "geometry": {
+          "type": "LineString",
+          "coordinates": [
+            [
+              11.6717061,
+              48.266761
+            ],
+            [
+              11.6718792,
+              48.2667403
+            ],
+            [
+              11.6722984,
+              48.2666876
+            ],
+            [
+              11.6724475,
+              48.2666714
+            ]
+          ]
+        },
+        "id": "way/30610971"
+      },
+      {
+        "type": "Feature",
+        "properties": {
+          "@id": "way/30615927",
+          "cycleway:both": "separate",
+          "highway": "unclassified",
+          "lane_markings": "no",
+          "lit": "yes",
+          "maxspeed": "60",
+          "name": "Ludwig-Prandtl-Straße",
+          "parking:both": "no",
+          "sidewalk:left": "separate",
+          "sidewalk:right": "no",
+          "smoothness": "good",
+          "surface": "asphalt",
+          "width": "8.9"
+        },
+        "geometry": {
+          "type": "LineString",
+          "coordinates": [
+            [
+              11.6639212,
+              48.2617701
+            ],
+            [
+              11.6632881,
+              48.2618506
+            ],
+            [
+              11.6630331,
+              48.2618823
+            ],
+            [
+              11.661987,
+              48.2619989
+            ],
+            [
+              11.6619385,
+              48.262004
+            ],
+            [
+              11.6612316,
+              48.2620874
+            ],
+            [
+              11.6611156,
+              48.2621011
+            ],
+            [
+              11.6601246,
+              48.2622157
+            ]
+          ]
+        },
+        "id": "way/30615927"
+      },
+      {
+        "type": "Feature",
+        "properties": {
+          "@id": "way/32462430",
+          "bridge": "yes",
+          "highway": "living_street",
+          "layer": "1",
+          "maxweight": "30",
+          "name": "Walther-Meißner-Straße",
+          "smoothness": "good",
+          "surface": "asphalt",
+          "width": "4.9"
+        },
+        "geometry": {
+          "type": "LineString",
+          "coordinates": [
+            [
+              11.675328,
+              48.2646541
+            ],
+            [
+              11.6752033,
+              48.264669
+            ]
+          ]
+        },
+        "id": "way/32462430"
+      },
+      {
+        "type": "Feature",
+        "properties": {
+          "@id": "way/32462432",
+          "highway": "living_street",
+          "name": "Walther-Meißner-Straße",
+          "smoothness": "good",
+          "source:width": "ARCore",
+          "surface": "asphalt",
+          "width": "4.9"
+        },
+        "geometry": {
+          "type": "LineString",
+          "coordinates": [
+            [
+              11.6752033,
+              48.264669
+            ],
+            [
+              11.675089,
+              48.2646827
+            ],
+            [
+              11.6750235,
+              48.2646905
+            ],
+            [
+              11.6742023,
+              48.2647885
+            ],
+            [
+              11.6736332,
+              48.2648564
+            ],
+            [
+              11.6728221,
+              48.2649612
+            ]
+          ]
+        },
+        "id": "way/32462432"
+      },
+      {
+        "type": "Feature",
+        "properties": {
+          "@id": "way/32551896",
+          "bicycle": "yes",
+          "bridge": "yes",
+          "check_date:surface": "2023-02-21",
+          "foot": "yes",
+          "highway": "track",
+          "layer": "1",
+          "surface": "asphalt",
+          "tracktype": "grade1"
+        },
+        "geometry": {
+          "type": "LineString",
+          "coordinates": [
+            [
+              11.6782682,
+              48.2657638
+            ],
+            [
+              11.6780768,
+              48.2657722
+            ]
+          ]
+        },
+        "id": "way/32551896"
+      },
+      {
+        "type": "Feature",
+        "properties": {
+          "@id": "way/32551897",
+          "bicycle": "yes",
+          "check_date:surface": "2023-02-21",
+          "foot": "yes",
+          "highway": "track",
+          "surface": "asphalt",
+          "tracktype": "grade1"
+        },
+        "geometry": {
+          "type": "LineString",
+          "coordinates": [
+            [
+              11.6780768,
+              48.2657722
+            ],
+            [
+              11.6780405,
+              48.2657739
+            ],
+            [
+              11.6779767,
+              48.265777
+            ],
+            [
+              11.6779184,
+              48.2657813
+            ],
+            [
+              11.6778987,
+              48.2657945
+            ],
+            [
+              11.6778886,
+              48.2658142
+            ],
+            [
+              11.6778717,
+              48.265878
+            ],
+            [
+              11.6778653,
+              48.2659382
+            ],
+            [
+              11.6778765,
+              48.2660141
+            ],
+            [
+              11.6779629,
+              48.2661256
+            ],
+            [
+              11.6780207,
+              48.2661975
+            ],
+            [
+              11.678055,
+              48.2662475
+            ],
+            [
+              11.6780862,
+              48.2663397
+            ],
+            [
+              11.6781051,
+              48.2663974
+            ]
+          ]
+        },
+        "id": "way/32551897"
+      },
+      {
+        "type": "Feature",
+        "properties": {
+          "@id": "way/33099591",
+          "bridge": "yes",
+          "cycleway:both": "no",
+          "highway": "residential",
+          "lane_markings": "no",
+          "layer": "1",
+          "lit": "no",
+          "maxweight": "30",
+          "name": "Am Coulombwall",
+          "parking:both": "no",
+          "sidewalk": "no",
+          "surface": "asphalt"
+        },
+        "geometry": {
+          "type": "LineString",
+          "coordinates": [
+            [
+              11.6799483,
+              48.2685621
+            ],
+            [
+              11.6800288,
+              48.2684762
+            ]
+          ]
+        },
+        "id": "way/33099591"
+      },
+      {
+        "type": "Feature",
+        "properties": {
+          "@id": "way/33099593",
+          "cycleway:both": "no",
+          "highway": "residential",
+          "lane_markings": "no",
+          "lit": "no",
+          "name": "Am Coulombwall",
+          "parking:both": "no",
+          "sidewalk": "no",
+          "surface": "asphalt"
+        },
+        "geometry": {
+          "type": "LineString",
+          "coordinates": [
+            [
+              11.6800288,
+              48.2684762
+            ],
+            [
+              11.6801125,
+              48.2683839
+            ],
+            [
+              11.6801433,
+              48.2683569
+            ],
+            [
+              11.6801608,
+              48.2683447
+            ],
+            [
+              11.6801772,
+              48.2683353
+            ],
+            [
+              11.6801956,
+              48.2683257
+            ],
+            [
+              11.6803515,
+              48.2682562
+            ],
+            [
+              11.6806507,
+              48.2681232
+            ],
+            [
+              11.6811148,
+              48.2679002
+            ],
+            [
+              11.6812658,
+              48.2678301
+            ],
+            [
+              11.6813552,
+              48.267789
+            ],
+            [
+              11.6814129,
+              48.2677659
+            ],
+            [
+              11.6814766,
+              48.2677517
+            ],
+            [
+              11.6815403,
+              48.2677481
+            ]
+          ]
+        },
+        "id": "way/33099593"
+      },
+      {
+        "type": "Feature",
+        "properties": {
+          "@id": "way/41486436",
+          "bicycle": "yes",
+          "highway": "unclassified",
+          "lanes": "2",
+          "maxspeed": "60",
+          "name": "Freisinger Straße",
+          "smoothness": "good",
+          "source:maxspeed": "sign",
+          "surface": "asphalt",
+          "tmc": "DE:27411/27412"
+        },
+        "geometry": {
+          "type": "LineString",
+          "coordinates": [
+            [
+              11.6998004,
+              48.2650582
+            ],
+            [
+              11.6994743,
+              48.2640742
+            ],
+            [
+              11.6993622,
+              48.2637897
+            ],
+            [
+              11.6991581,
+              48.2632639
+            ],
+            [
+              11.6986035,
+              48.2620552
+            ],
+            [
+              11.6975758,
+              48.2597197
+            ],
+            [
+              11.697483,
+              48.2595117
+            ],
+            [
+              11.697372,
+              48.2592631
+            ],
+            [
+              11.6969432,
+              48.2583021
+            ],
+            [
+              11.6962611,
+              48.2567734
+            ]
+          ]
+        },
+        "id": "way/41486436"
+      },
+      {
+        "type": "Feature",
+        "properties": {
+          "@id": "way/46195417",
+          "cycleway:both": "no",
+          "foot": "use_sidepath",
+          "highway": "unclassified",
+          "lane_markings": "no",
+          "lit": "yes",
+          "maxspeed": "50",
+          "name": "Boltzmannstraße",
+          "parking:both": "no",
+          "psv": "yes",
+          "sidewalk": "separate",
+          "smoothness": "excellent",
+          "surface": "asphalt",
+          "width": "7"
+        },
+        "geometry": {
+          "type": "LineString",
+          "coordinates": [
+            [
+              11.6711494,
+              48.2647506
+            ],
+            [
+              11.6711714,
+              48.264828
+            ],
+            [
+              11.6712162,
+              48.2649857
+            ]
+          ]
+        },
+        "id": "way/46195417"
+      },
+      {
+        "type": "Feature",
+        "properties": {
+          "@id": "way/46717842",
+          "cycleway:both": "no",
+          "destination:lanes:backward": "Hochschul- und Forschungszentrum/TUM Zufahrt Nord|München;Garching;Hochschul- und Forschungszentrum/TUM Zufahrt Süd",
+          "highway": "secondary",
+          "lanes": "3",
+          "lanes:backward": "2",
+          "lanes:forward": "1",
+          "maxspeed": "70",
+          "ref": "St 2350",
+          "shoulder": "no",
+          "sidewalk": "no",
+          "smoothness": "good",
+          "source:maxspeed": "sign",
+          "surface": "asphalt",
+          "tmc": "DE:20570/20571",
+          "turn:lanes:backward": "left|through",
+          "turn:lanes:forward": "none"
+        },
+        "geometry": {
+          "type": "LineString",
+          "coordinates": [
+            [
+              11.6626078,
+              48.2679224
+            ],
+            [
+              11.6627103,
+              48.2680206
+            ],
+            [
+              11.6629343,
+              48.2682431
+            ]
+          ]
+        },
+        "id": "way/46717842"
+      },
+      {
+        "type": "Feature",
+        "properties": {
+          "@id": "way/46717843",
+          "bicycle": "yes",
+          "cycleway:both": "no",
+          "foot": "use_sidepath",
+          "highway": "unclassified",
+          "lane_markings": "no",
+          "lit": "yes",
+          "maxspeed": "50",
+          "name": "Lichtenbergstraße",
+          "parking:both": "no",
+          "parking:both:restriction": "no_parking",
+          "sidewalk:both": "separate",
+          "smoothness": "good",
+          "surface": "asphalt"
+        },
+        "geometry": {
+          "type": "LineString",
+          "coordinates": [
+            [
+              11.6689283,
+              48.267097
+            ],
+            [
+              11.6692343,
+              48.2670628
+            ],
+            [
+              11.6697235,
+              48.2670029
+            ],
+            [
+              11.6702852,
+              48.2669362
+            ],
+            [
+              11.6704779,
+              48.2669141
+            ],
+            [
+              11.6706445,
+              48.2668929
+            ],
+            [
+              11.6708428,
+              48.2668687
+            ],
+            [
+              11.671356,
+              48.2668045
+            ],
+            [
+              11.6714993,
+              48.2667867
+            ],
+            [
+              11.671605,
+              48.2667732
+            ],
+            [
+              11.6717061,
+              48.266761
+            ]
+          ]
+        },
+        "id": "way/46717843"
+      },
+      {
+        "type": "Feature",
+        "properties": {
+          "@id": "way/46717844",
+          "bicycle": "yes",
+          "cycleway:both": "no",
+          "highway": "unclassified",
+          "lane_markings": "no",
+          "lit": "yes",
+          "maxspeed": "50",
+          "name": "Lichtenbergstraße",
+          "parking:both": "no",
+          "parking:both:restriction": "no_parking",
+          "sidewalk:both": "separate",
+          "smoothness": "good",
+          "surface": "asphalt"
+        },
+        "geometry": {
+          "type": "LineString",
+          "coordinates": [
+            [
+              11.6679274,
+              48.2672153
+            ],
+            [
+              11.6683122,
+              48.2671702
+            ],
+            [
+              11.6685204,
+              48.2671451
+            ],
+            [
+              11.6687008,
+              48.2671238
+            ],
+            [
+              11.6689283,
+              48.267097
+            ]
+          ]
+        },
+        "id": "way/46717844"
+      },
+      {
+        "type": "Feature",
+        "properties": {
+          "@id": "way/47852794",
+          "cycleway:both": "no",
+          "highway": "secondary",
+          "lanes": "2",
+          "maxspeed": "70",
+          "name": "Freisinger Landstraße",
+          "ref": "St 2350",
+          "shoulder": "no",
+          "sidewalk": "no",
+          "smoothness": "good",
+          "source:maxspeed": "sign",
+          "surface": "asphalt",
+          "tmc": "DE:20570/20571"
+        },
+        "geometry": {
+          "type": "LineString",
+          "coordinates": [
+            [
+              11.6632406,
+              48.2685488
+            ],
+            [
+              11.6642305,
+              48.2695376
+            ],
+            [
+              11.6649997,
+              48.2702551
+            ],
+            [
+              11.6655867,
+              48.2708287
+            ],
+            [
+              11.6657133,
+              48.2709556
+            ]
+          ]
+        },
+        "id": "way/47852794"
+      },
+      {
+        "type": "Feature",
+        "properties": {
+          "@id": "way/47852795",
+          "cycleway:both": "no",
+          "highway": "unclassified",
+          "lane_markings": "no",
+          "lit": "yes",
+          "maxspeed": "50",
+          "name": "Lichtenbergstraße",
+          "parking:both": "no",
+          "sidewalk:left": "separate",
+          "sidewalk:right": "no",
+          "smoothness": "good",
+          "surface": "asphalt"
+        },
+        "geometry": {
+          "type": "LineString",
+          "coordinates": [
+            [
+              11.6641071,
+              48.2676699
+            ],
+            [
+              11.6650542,
+              48.2675625
+            ],
+            [
+              11.6655431,
+              48.2675072
+            ],
+            [
+              11.6656366,
+              48.2674966
+            ],
+            [
+              11.6661659,
+              48.2674354
+            ]
+          ]
+        },
+        "id": "way/47852795"
+      },
+      {
+        "type": "Feature",
+        "properties": {
+          "@id": "way/47852796",
+          "cycleway:both": "no",
+          "foot": "yes",
+          "highway": "unclassified",
+          "lanes": "1",
+          "lit": "no",
+          "maxspeed": "50",
+          "name": "Lichtenbergstraße",
+          "oneway": "yes",
+          "parking:both": "no",
+          "sidewalk": "no",
+          "smoothness": "good",
+          "surface": "asphalt"
+        },
+        "geometry": {
+          "type": "LineString",
+          "coordinates": [
+            [
+              11.6630376,
+              48.2678155
+            ],
+            [
+              11.6629292,
+              48.2679051
+            ],
+            [
+              11.6629022,
+              48.2679429
+            ],
+            [
+              11.6628821,
+              48.2679892
+            ],
+            [
+              11.6628767,
+              48.2680139
+            ],
+            [
+              11.6628783,
+              48.2680418
+            ],
+            [
+              11.6628944,
+              48.2681084
+            ],
+            [
+              11.6629343,
+              48.2682431
+            ]
+          ]
+        },
+        "id": "way/47852796"
+      },
+      {
+        "type": "Feature",
+        "properties": {
+          "@id": "way/85077484",
+          "bicycle": "yes",
+          "foot": "yes",
+          "highway": "path",
+          "surface": "asphalt"
+        },
+        "geometry": {
+          "type": "LineString",
+          "coordinates": [
+            [
+              11.6781051,
+              48.2663974
+            ],
+            [
+              11.6780436,
+              48.2664167
+            ],
+            [
+              11.6779804,
+              48.2664509
+            ],
+            [
+              11.6779248,
+              48.2664952
+            ],
+            [
+              11.6779007,
+              48.2665264
+            ],
+            [
+              11.677863,
+              48.2665617
+            ],
+            [
+              11.6778092,
+              48.2665827
+            ],
+            [
+              11.6777236,
+              48.2665926
+            ],
+            [
+              11.6775551,
+              48.266624
+            ],
+            [
+              11.6775148,
+              48.2666343
+            ],
+            [
+              11.6774809,
+              48.2666489
+            ],
+            [
+              11.6773634,
+              48.266714
+            ],
+            [
+              11.677329,
+              48.2667328
+            ],
+            [
+              11.6772964,
+              48.2667439
+            ],
+            [
+              11.6772562,
+              48.2667483
+            ],
+            [
+              11.6771944,
+              48.2667426
+            ],
+            [
+              11.6770718,
+              48.2667248
+            ],
+            [
+              11.6768371,
+              48.2666951
+            ],
+            [
+              11.6766988,
+              48.2666691
+            ],
+            [
+              11.6765355,
+              48.2666435
+            ],
+            [
+              11.6764267,
+              48.2666222
+            ],
+            [
+              11.6763274,
+              48.2665978
+            ],
+            [
+              11.6762549,
+              48.2665901
+            ],
+            [
+              11.6761724,
+              48.2666016
+            ]
+          ]
+        },
+        "id": "way/85077484"
+      },
+      {
+        "type": "Feature",
+        "properties": {
+          "@id": "way/143209433",
+          "cycleway:both": "no",
+          "highway": "secondary",
+          "lanes": "2",
+          "maxspeed": "100",
+          "name": "Freisinger Landstraße",
+          "ref": "St 2350",
+          "shoulder": "no",
+          "smoothness": "good",
+          "source:maxspeed": "DE:rural",
+          "surface": "asphalt",
+          "tmc": "DE:20570/20571"
+        },
+        "geometry": {
+          "type": "LineString",
+          "coordinates": [
+            [
+              11.6664646,
+              48.2716737
+            ],
+            [
+              11.6675409,
+              48.2727107
+            ],
+            [
+              11.6686037,
+              48.2737425
+            ],
+            [
+              11.6703186,
+              48.2753938
+            ],
+            [
+              11.6706291,
+              48.275686
+            ],
+            [
+              11.6718452,
+              48.2768727
+            ]
+          ]
+        },
+        "id": "way/143209433"
+      },
+      {
+        "type": "Feature",
+        "properties": {
+          "@id": "way/172826863",
+          "cycleway:both": "no",
+          "highway": "residential",
+          "lane_markings": "no",
+          "name": "James-Franck-Straße",
+          "parking:left": "separate",
+          "parking:right": "no",
+          "sidewalk:left": "separate",
+          "sidewalk:right": "no",
+          "smoothness": "good",
+          "surface": "asphalt",
+          "width": "7"
+        },
+        "geometry": {
+          "type": "LineString",
+          "coordinates": [
+            [
+              11.6729541,
+              48.2670384
+            ],
+            [
+              11.6737346,
+              48.2669408
+            ],
+            [
+              11.6738849,
+              48.2669237
+            ],
+            [
+              11.674502,
+              48.2668531
+            ],
+            [
+              11.6745788,
+              48.26685
+            ]
+          ]
+        },
+        "id": "way/172826863"
+      },
+      {
+        "type": "Feature",
+        "properties": {
+          "@id": "way/191139539",
+          "highway": "service",
+          "maxspeed": "20",
+          "parking:both:restriction": "no_parking",
+          "surface": "asphalt"
+        },
+        "geometry": {
+          "type": "LineString",
+          "coordinates": [
+            [
+              11.6664685,
+              48.2676417
+            ],
+            [
+              11.6664137,
+              48.2674357
+            ],
+            [
+              11.666404,
+              48.2674024
+            ]
+          ]
+        },
+        "id": "way/191139539"
+      },
+      {
+        "type": "Feature",
+        "properties": {
+          "@id": "way/295418155",
+          "cycleway:both": "no",
+          "highway": "residential",
+          "lane_markings": "no",
+          "lit": "yes",
+          "maxspeed": "50",
+          "name": "Am Coulombwall",
+          "parking:left": "separate",
+          "parking:right": "no",
+          "sidewalk": "separate",
+          "surface": "asphalt"
+        },
+        "geometry": {
+          "type": "LineString",
+          "coordinates": [
+            [
+              11.6751275,
+              48.2690395
+            ],
+            [
+              11.6752112,
+              48.2690295
+            ],
+            [
+              11.6758236,
+              48.2689559
+            ],
+            [
+              11.6758853,
+              48.2689485
+            ],
+            [
+              11.6759085,
+              48.2689457
+            ],
+            [
+              11.6763634,
+              48.2688911
+            ],
+            [
+              11.6767269,
+              48.2688475
+            ],
+            [
+              11.6769386,
+              48.2688221
+            ],
+            [
+              11.6774732,
+              48.2687579
+            ]
+          ]
+        },
+        "id": "way/295418155"
+      },
+      {
+        "type": "Feature",
+        "properties": {
+          "@id": "way/295418156",
+          "highway": "service",
+          "surface": "asphalt"
+        },
+        "geometry": {
+          "type": "LineString",
+          "coordinates": [
+            [
+              11.6751275,
+              48.2690395
+            ],
+            [
+              11.675107,
+              48.26897
+            ],
+            [
+              11.675051,
+              48.2687717
+            ],
+            [
+              11.675038,
+              48.2687274
+            ],
+            [
+              11.6749207,
+              48.2686306
+            ],
+            [
+              11.6748505,
+              48.2683933
+            ],
+            [
+              11.6747305,
+              48.2682291
+            ]
+          ]
+        },
+        "id": "way/295418156"
+      },
+      {
+        "type": "Feature",
+        "properties": {
+          "@id": "way/330587895",
+          "cycleway:both": "no",
+          "foot": "use_sidepath",
+          "highway": "unclassified",
+          "lane_markings": "no",
+          "lit": "yes",
+          "maxspeed": "50",
+          "name": "Boltzmannstraße",
+          "parking:both": "no",
+          "psv": "yes",
+          "sidewalk": "separate",
+          "smoothness": "good",
+          "source:width": "ARCore",
+          "surface": "asphalt",
+          "width": "6"
+        },
+        "geometry": {
+          "type": "LineString",
+          "coordinates": [
+            [
+              11.6712162,
+              48.2649857
+            ],
+            [
+              11.6712199,
+              48.2649987
+            ],
+            [
+              11.6713852,
+              48.2655774
+            ],
+            [
+              11.6714981,
+              48.2659993
+            ],
+            [
+              11.6715774,
+              48.2663124
+            ],
+            [
+              11.6716417,
+              48.2665378
+            ],
+            [
+              11.671689,
+              48.2667017
+            ],
+            [
+              11.6717061,
+              48.266761
+            ]
+          ]
+        },
+        "id": "way/330587895"
+      },
+      {
+        "type": "Feature",
+        "properties": {
+          "@id": "way/403912529",
+          "emergency": "designated",
+          "highway": "living_street",
+          "lit": "yes",
+          "maxspeed:type": "sign",
+          "name": "Walther-von-Dyck-Straße",
+          "oneway": "yes",
+          "parking:both": "no",
+          "sidewalk": "no",
+          "smoothness": "excellent",
+          "surface": "asphalt",
+          "width": "4.2"
+        },
+        "geometry": {
+          "type": "LineString",
+          "coordinates": [
+            [
+              11.6728456,
+              48.2654268
+            ],
+            [
+              11.6727788,
+              48.2654946
+            ],
+            [
+              11.6727845,
+              48.265516
+            ],
+            [
+              11.6729168,
+              48.2660127
+            ]
+          ]
+        },
+        "id": "way/403912529"
+      },
+      {
+        "type": "Feature",
+        "properties": {
+          "@id": "way/425955553",
+          "cycleway:both": "no",
+          "destination:lanes:backward": "Hochschul- und Forschungszentrum/TUM Zufahrt Nord|München;Garching;Hochschul- und Forschungszentrum/TUM Zufahrt Süd",
+          "highway": "secondary",
+          "lanes": "4",
+          "lanes:backward": "2",
+          "lanes:forward": "2",
+          "maxspeed": "70",
+          "name": "Freisinger Landstraße",
+          "placement:backward": "middle_of:1",
+          "ref": "St 2350",
+          "shoulder": "no",
+          "sidewalk": "no",
+          "smoothness": "good",
+          "source:maxspeed": "sign",
+          "surface": "asphalt",
+          "tmc": "DE:20570/20571",
+          "turn:lanes:backward": "left|through",
+          "turn:lanes:forward": "none|merge_to_left"
+        },
+        "geometry": {
+          "type": "LineString",
+          "coordinates": [
+            [
+              11.6629343,
+              48.2682431
+            ],
+            [
+              11.6630621,
+              48.2683705
+            ]
+          ]
+        },
+        "id": "way/425955553"
+      },
+      {
+        "type": "Feature",
+        "properties": {
+          "@id": "way/425955554",
+          "cycleway:both": "no",
+          "highway": "secondary",
+          "lanes": "2",
+          "maxspeed": "70",
+          "name": "Freisinger Landstraße",
+          "ref": "St 2350",
+          "shoulder": "no",
+          "smoothness": "good",
+          "source:maxspeed": "sign",
+          "surface": "asphalt",
+          "tmc": "DE:20570/20571"
+        },
+        "geometry": {
+          "type": "LineString",
+          "coordinates": [
+            [
+              11.6657133,
+              48.2709556
+            ],
+            [
+              11.6664646,
+              48.2716737
+            ]
+          ]
+        },
+        "id": "way/425955554"
+      },
+      {
+        "type": "Feature",
+        "properties": {
+          "@id": "way/425955555",
+          "cycleway:both": "no",
+          "highway": "secondary",
+          "lanes": "2",
+          "lit": "no",
+          "maxspeed": "70",
+          "ref": "St 2350",
+          "shoulder": "no",
+          "sidewalk": "no",
+          "smoothness": "good",
+          "source:maxspeed": "sign",
+          "surface": "asphalt",
+          "tmc": "DE:20570/20571",
+          "turn:lanes:backward": "none",
+          "turn:lanes:forward": "through"
+        },
+        "geometry": {
+          "type": "LineString",
+          "coordinates": [
+            [
+              11.6622856,
+              48.2675856
+            ],
+            [
+              11.6625033,
+              48.2678151
+            ],
+            [
+              11.6626078,
+              48.2679224
+            ]
+          ]
+        },
+        "id": "way/425955555"
+      },
+      {
+        "type": "Feature",
+        "properties": {
+          "@id": "way/425955556",
+          "cycleway:both": "no",
+          "destination:lanes:forward": "Landshut;Freising|Hochschul- und Forschungszentrum/TUM Zufahrt Nord",
+          "highway": "secondary",
+          "lanes": "3",
+          "lanes:backward": "1",
+          "lanes:forward": "2",
+          "lit": "no",
+          "maxspeed": "70",
+          "parking:both": "no",
+          "placement:backward": "left_of:1",
+          "ref": "St 2350",
+          "shoulder": "no",
+          "sidewalk": "no",
+          "smoothness": "good",
+          "source:maxspeed": "sign",
+          "surface": "asphalt",
+          "tmc": "DE:20570/20571",
+          "turn:lanes:backward": "none",
+          "turn:lanes:forward": "none|slight_right"
+        },
+        "geometry": {
+          "type": "LineString",
+          "coordinates": [
+            [
+              11.6614349,
+              48.2666908
+            ],
+            [
+              11.6622856,
+              48.2675856
+            ]
+          ]
+        },
+        "id": "way/425955556"
+      },
+      {
+        "type": "Feature",
+        "properties": {
+          "@id": "way/435834327",
+          "cycleway:both": "no",
+          "highway": "secondary",
+          "lanes": "2",
+          "lit": "no",
+          "maxspeed": "70",
+          "overtaking": "no",
+          "parking:both": "no",
+          "ref": "St 2350",
+          "shoulder": "no",
+          "sidewalk": "no",
+          "smoothness": "good",
+          "source:maxspeed": "sign",
+          "surface": "asphalt",
+          "tmc": "DE:20570/20571"
+        },
+        "geometry": {
+          "type": "LineString",
+          "coordinates": [
+            [
+              11.6593641,
+              48.2641283
+            ],
+            [
+              11.6603996,
+              48.2654728
+            ],
+            [
+              11.6611488,
+              48.2663675
+            ]
+          ]
+        },
+        "id": "way/435834327"
+      },
+      {
+        "type": "Feature",
+        "properties": {
+          "@id": "way/435835283",
+          "cycleway:both": "no",
+          "highway": "secondary",
+          "lanes": "2",
+          "lit": "no",
+          "maxspeed": "70",
+          "name": "Freisinger Landstraße",
+          "overtaking": "no",
+          "parking:both": "no",
+          "ref": "St 2350",
+          "sidewalk": "no",
+          "smoothness": "good",
+          "source:maxspeed": "sign",
+          "surface": "asphalt",
+          "tmc": "DE:20570/20571",
+          "turn:forward": "through;right"
+        },
+        "geometry": {
+          "type": "LineString",
+          "coordinates": [
+            [
+              11.6611488,
+              48.2663675
+            ],
+            [
+              11.6614349,
+              48.2666908
+            ]
+          ]
+        },
+        "id": "way/435835283"
+      },
+      {
+        "type": "Feature",
+        "properties": {
+          "@id": "way/441246635",
+          "cycleway:both": "no",
+          "highway": "residential",
+          "lanes": "1",
+          "lit": "yes",
+          "maxspeed": "50",
+          "noname": "yes",
+          "oneway": "yes",
+          "parking:both": "no",
+          "sidewalk:left": "no",
+          "sidewalk:right": "separate",
+          "smoothness": "good",
+          "surface": "asphalt",
+          "width": "6.1"
+        },
+        "geometry": {
+          "type": "LineString",
+          "coordinates": [
+            [
+              11.6713137,
+              48.2637059
+            ],
+            [
+              11.6710268,
+              48.2637516
+            ],
+            [
+              11.6709767,
+              48.2637596
+            ],
+            [
+              11.670908,
+              48.2637705
+            ],
+            [
+              11.6708462,
+              48.2637804
+            ]
+          ]
+        },
+        "id": "way/441246635"
+      },
+      {
+        "type": "Feature",
+        "properties": {
+          "@id": "way/441246636",
+          "cycleway:both": "no",
+          "highway": "residential",
+          "lanes": "2",
+          "lit": "yes",
+          "maxspeed": "50",
+          "noname": "yes",
+          "oneway": "yes",
+          "parking:both": "no",
+          "sidewalk:left": "no",
+          "sidewalk:right": "separate",
+          "smoothness": "good",
+          "surface": "asphalt"
+        },
+        "geometry": {
+          "type": "LineString",
+          "coordinates": [
+            [
+              11.670823,
+              48.263711
+            ],
+            [
+              11.6709999,
+              48.2636825
+            ],
+            [
+              11.6711187,
+              48.2636633
+            ],
+            [
+              11.6713076,
+              48.2636329
+            ]
+          ]
+        },
+        "id": "way/441246636"
+      },
+      {
+        "type": "Feature",
+        "properties": {
+          "@id": "way/486843893",
+          "cycleway:both": "no",
+          "destination:lanes:backward": "Hochschul- und Forschungszentrum/TUM Zufahrt Nord|München;Garching;Hochschul- und Forschungszentrum/TUM Zufahrt Süd",
+          "highway": "secondary",
+          "lanes": "3",
+          "lanes:backward": "2",
+          "maxspeed": "70",
+          "name": "Freisinger Landstraße",
+          "ref": "St 2350",
+          "shoulder": "no",
+          "sidewalk": "no",
+          "smoothness": "good",
+          "source:maxspeed": "sign",
+          "surface": "asphalt",
+          "tmc": "DE:20570/20571",
+          "turn:lanes:backward": "left|through"
+        },
+        "geometry": {
+          "type": "LineString",
+          "coordinates": [
+            [
+              11.6630621,
+              48.2683705
+            ],
+            [
+              11.6632406,
+              48.2685488
+            ]
+          ]
+        },
+        "id": "way/486843893"
+      },
+      {
+        "type": "Feature",
+        "properties": {
+          "@id": "way/617369302",
+          "cycleway:both": "no",
+          "destination": "Hochschul- und Forschungszentrum/TUM Zufahrt Nord",
+          "foot": "yes",
+          "highway": "unclassified",
+          "lanes": "1",
+          "lit": "no",
+          "maxspeed": "50",
+          "name": "Lichtenbergstraße",
+          "oneway": "yes",
+          "parking:both": "no",
+          "sidewalk": "no",
+          "smoothness": "good",
+          "surface": "asphalt"
+        },
+        "geometry": {
+          "type": "LineString",
+          "coordinates": [
+            [
+              11.6626078,
+              48.2679224
+            ],
+            [
+              11.6626617,
+              48.2678669
+            ],
+            [
+              11.6626915,
+              48.2678417
+            ],
+            [
+              11.6627283,
+              48.2678195
+            ],
+            [
+              11.6627574,
+              48.2678071
+            ],
+            [
+              11.6627936,
+              48.2677962
+            ],
+            [
+              11.6628578,
+              48.2677854
+            ]
+          ]
+        },
+        "id": "way/617369302"
+      },
+      {
+        "type": "Feature",
+        "properties": {
+          "@id": "way/617369305",
+          "cycleway:both": "no",
+          "foot": "yes",
+          "highway": "unclassified",
+          "lanes": "1",
+          "lit": "no",
+          "maxspeed": "50",
+          "name": "Lichtenbergstraße",
+          "oneway": "yes",
+          "parking:both": "no",
+          "sidewalk": "no",
+          "smoothness": "good",
+          "surface": "asphalt"
+        },
+        "geometry": {
+          "type": "LineString",
+          "coordinates": [
+            [
+              11.6628578,
+              48.2677854
+            ],
+            [
+              11.6628922,
+              48.2677876
+            ],
+            [
+              11.663136,
+              48.2677959
+            ]
+          ]
+        },
+        "id": "way/617369305"
+      },
+      {
+        "type": "Feature",
+        "properties": {
+          "@id": "way/618206086",
+          "cycleway:right": "no",
+          "foot": "yes",
+          "highway": "unclassified",
+          "lanes": "2",
+          "lit": "no",
+          "maxspeed": "50",
+          "name": "Lichtenbergstraße",
+          "oneway": "yes",
+          "parking:both": "no",
+          "sidewalk": "no",
+          "smoothness": "good",
+          "surface": "asphalt"
+        },
+        "geometry": {
+          "type": "LineString",
+          "coordinates": [
+            [
+              11.663136,
+              48.2677959
+            ],
+            [
+              11.6630376,
+              48.2678155
+            ]
+          ]
+        },
+        "id": "way/618206086"
+      },
+      {
+        "type": "Feature",
+        "properties": {
+          "@id": "way/727241267",
+          "highway": "path",
+          "smoothness": "good",
+          "surface": "asphalt"
+        },
+        "geometry": {
+          "type": "LineString",
+          "coordinates": [
+            [
+              11.6711324,
+              48.2679262
+            ],
+            [
+              11.6712875,
+              48.2678858
+            ],
+            [
+              11.6716181,
+              48.2678522
+            ],
+            [
+              11.6718817,
+              48.2678262
+            ],
+            [
+              11.6726553,
+              48.26773
+            ],
+            [
+              11.6727208,
+              48.2677227
+            ]
+          ]
+        },
+        "id": "way/727241267"
+      },
+      {
+        "type": "Feature",
+        "properties": {
+          "@id": "way/802330623",
+          "cycleway:both": "no",
+          "highway": "residential",
+          "lit": "yes",
+          "maxspeed": "30",
+          "maxspeed:type": "sign",
+          "name": "Friedrich-Ludwig-Bauer-Straße",
+          "oneway": "no",
+          "sidewalk:left": "no",
+          "sidewalk:right": "yes",
+          "sidewalk:right:surface": "asphalt",
+          "smoothness": "good",
+          "surface": "asphalt"
+        },
+        "geometry": {
+          "type": "LineString",
+          "coordinates": [
+            [
+              11.6611156,
+              48.2621011
+            ],
+            [
+              11.6613934,
+              48.2631672
+            ],
+            [
+              11.6614217,
+              48.2632758
+            ],
+            [
+              11.6616667,
+              48.2642161
+            ],
+            [
+              11.6616781,
+              48.26426
+            ],
+            [
+              11.661723,
+              48.2644322
+            ],
+            [
+              11.6617793,
+              48.2646418
+            ],
+            [
+              11.661861,
+              48.2649183
+            ],
+            [
+              11.6619423,
+              48.2651359
+            ],
+            [
+              11.6619751,
+              48.2652436
+            ]
+          ]
+        },
+        "id": "way/802330623"
+      },
+      {
+        "type": "Feature",
+        "properties": {
+          "@id": "way/907133042",
+          "highway": "service",
+          "lanes": "1",
+          "oneway": "yes",
+          "smoothness": "good",
+          "surface": "asphalt"
+        },
+        "geometry": {
+          "type": "LineString",
+          "coordinates": [
+            [
+              11.6672596,
+              48.269325
+            ],
+            [
+              11.667204,
+              48.269262
+            ],
+            [
+              11.6670646,
+              48.2688247
+            ],
+            [
+              11.6669697,
+              48.2684664
+            ],
+            [
+              11.666985,
+              48.2683264
+            ],
+            [
+              11.666965,
+              48.2681435
+            ],
+            [
+              11.6669548,
+              48.2681065
+            ],
+            [
+              11.6667567,
+              48.2673933
+            ],
+            [
+              11.6667484,
+              48.2673623
+            ]
+          ]
+        },
+        "id": "way/907133042"
+      },
+      {
+        "type": "Feature",
+        "properties": {
+          "@id": "way/912372771",
+          "highway": "path",
+          "smoothness": "good",
+          "surface": "asphalt"
+        },
+        "geometry": {
+          "type": "LineString",
+          "coordinates": [
+            [
+              11.670913,
+              48.2680175
+            ],
+            [
+              11.6711324,
+              48.2679262
+            ]
+          ]
+        },
+        "id": "way/912372771"
+      },
+      {
+        "type": "Feature",
+        "properties": {
+          "@id": "way/924165147",
+          "cycleway:both": "no",
+          "highway": "residential",
+          "lit": "yes",
+          "maxspeed": "30",
+          "maxspeed:type": "sign",
+          "name": "Friedrich-Ludwig-Bauer-Straße",
+          "oneway": "no",
+          "parking:both": "no",
+          "sidewalk:both": "separate",
+          "smoothness": "excellent",
+          "source:width": "ARCore",
+          "surface": "asphalt",
+          "width": "6.4"
+        },
+        "geometry": {
+          "type": "LineString",
+          "coordinates": [
+            [
+              11.6651292,
+              48.2659026
+            ],
+            [
+              11.6649668,
+              48.2659222
+            ],
+            [
+              11.6638351,
+              48.2660591
+            ],
+            [
+              11.6632039,
+              48.2661336
+            ],
+            [
+              11.6623191,
+              48.2662357
+            ],
+            [
+              11.6622862,
+              48.2662365
+            ],
+            [
+              11.662262,
+              48.2662336
+            ],
+            [
+              11.6622441,
+              48.2662241
+            ],
+            [
+              11.6622319,
+              48.2662065
+            ],
+            [
+              11.6622247,
+              48.2661834
+            ],
+            [
+              11.6619751,
+              48.2652436
+            ]
+          ]
+        },
+        "id": "way/924165147"
+      },
+      {
+        "type": "Feature",
+        "properties": {
+          "@id": "way/931974269",
+          "cycleway:both": "no",
+          "highway": "service",
+          "lit": "yes",
+          "maxspeed": "50",
+          "sidewalk": "none",
+          "surface": "asphalt"
+        },
+        "geometry": {
+          "type": "LineString",
+          "coordinates": [
+            [
+              11.6729112,
+              48.2684136
+            ],
+            [
+              11.6730739,
+              48.2683912
+            ],
+            [
+              11.6733149,
+              48.2683624
+            ],
+            [
+              11.6735546,
+              48.2683471
+            ],
+            [
+              11.6739932,
+              48.2682953
+            ],
+            [
+              11.6745007,
+              48.2682353
+            ],
+            [
+              11.6747305,
+              48.2682291
+            ]
+          ]
+        },
+        "id": "way/931974269"
+      },
+      {
+        "type": "Feature",
+        "properties": {
+          "@id": "way/983606045",
+          "highway": "service",
+          "lanes": "1",
+          "oneway": "yes",
+          "surface": "asphalt"
+        },
+        "geometry": {
+          "type": "LineString",
+          "coordinates": [
+            [
+              11.6676552,
+              48.2695309
+            ],
+            [
+              11.6672596,
+              48.269325
+            ]
+          ]
+        },
+        "id": "way/983606045"
+      },
+      {
+        "type": "Feature",
+        "properties": {
+          "@id": "way/983606049",
+          "highway": "path",
+          "smoothness": "good",
+          "surface": "asphalt"
+        },
+        "geometry": {
+          "type": "LineString",
+          "coordinates": [
+            [
+              11.6692428,
+              48.2670939
+            ],
+            [
+              11.6692343,
+              48.2670628
+            ]
+          ]
+        },
+        "id": "way/983606049"
+      },
+      {
+        "type": "Feature",
+        "properties": {
+          "@id": "way/983606060",
+          "delivery": "yes",
+          "emergency": "designated",
+          "highway": "living_street",
+          "lanes": "1",
+          "lit": "yes",
+          "maxweight": "40 t",
+          "name": "Walther-von-Dyck-Straße",
+          "oneway": "yes",
+          "parking:left": "separate",
+          "parking:right": "no",
+          "sidewalk": "no",
+          "smoothness": "excellent",
+          "source:width": "ARCore",
+          "surface": "asphalt",
+          "width": "5"
+        },
+        "geometry": {
+          "type": "LineString",
+          "coordinates": [
+            [
+              11.6726409,
+              48.2654773
+            ],
+            [
+              11.6725223,
+              48.2650592
+            ],
+            [
+              11.6725069,
+              48.2650059
+            ],
+            [
+              11.6724252,
+              48.2647287
+            ],
+            [
+              11.6723666,
+              48.2645139
+            ],
+            [
+              11.6723623,
+              48.264471
+            ],
+            [
+              11.6723864,
+              48.2644354
+            ]
+          ]
+        },
+        "id": "way/983606060"
+      },
+      {
+        "type": "Feature",
+        "properties": {
+          "@id": "way/983606066",
+          "cycleway:both": "no",
+          "emergency": "designated",
+          "highway": "living_street",
+          "lit": "yes",
+          "maxspeed:type": "sign",
+          "name": "Walther-von-Dyck-Straße",
+          "oneway": "yes",
+          "parking:left": "separate",
+          "parking:right": "no",
+          "sidewalk": "no",
+          "smoothness": "good",
+          "source:width": "ARCore",
+          "surface": "asphalt",
+          "width": "4.3"
+        },
+        "geometry": {
+          "type": "LineString",
+          "coordinates": [
+            [
+              11.6728221,
+              48.2649612
+            ],
+            [
+              11.6729237,
+              48.2653402
+            ],
+            [
+              11.6728456,
+              48.2654268
+            ]
+          ]
+        },
+        "id": "way/983606066"
+      },
+      {
+        "type": "Feature",
+        "properties": {
+          "@id": "way/983606077",
+          "emergency": "designated",
+          "highway": "living_street",
+          "lit": "yes",
+          "name": "Walther-Meißner-Straße",
+          "oneway": "no",
+          "parking:both": "no",
+          "smoothness": "excellent",
+          "source:width": "ARCore",
+          "surface": "asphalt",
+          "width": "4.9"
+        },
+        "geometry": {
+          "type": "LineString",
+          "coordinates": [
+            [
+              11.6725069,
+              48.2650059
+            ],
+            [
+              11.6728221,
+              48.2649612
+            ]
+          ]
+        },
+        "id": "way/983606077"
+      },
+      {
+        "type": "Feature",
+        "properties": {
+          "@id": "way/983610116",
+          "bicycle": "yes",
+          "emergency": "designated",
+          "highway": "living_street",
+          "lit": "no",
+          "name": "Walther-von-Dyck-Straße",
+          "oneway": "yes",
+          "smoothness": "excellent",
+          "source:width": "ARCore",
+          "surface": "asphalt",
+          "width": "9.5"
+        },
+        "geometry": {
+          "type": "LineString",
+          "coordinates": [
+            [
+              11.6723864,
+              48.2644354
+            ],
+            [
+              11.6724364,
+              48.2644201
+            ],
+            [
+              11.6726763,
+              48.264392
+            ]
+          ]
+        },
+        "id": "way/983610116"
+      },
+      {
+        "type": "Feature",
+        "properties": {
+          "@id": "way/994971694",
+          "cycleway:both": "no",
+          "emergency": "designated",
+          "highway": "residential",
+          "lanes": "2",
+          "lit": "yes",
+          "maxspeed": "50",
+          "maxspeed:type": "sign",
+          "name": "Walther-von-Dyck-Straße",
+          "parking:both": "no",
+          "sidewalk": "right",
+          "sidewalk:right:surface": "asphalt",
+          "smoothness": "excellent",
+          "source:maxspeed": "DE:urban",
+          "surface": "asphalt"
+        },
+        "geometry": {
+          "type": "LineString",
+          "coordinates": [
+            [
+              11.6727795,
+              48.2666095
+            ],
+            [
+              11.672822,
+              48.2665818
+            ],
+            [
+              11.6728536,
+              48.2665542
+            ],
+            [
+              11.6728817,
+              48.2665204
+            ],
+            [
+              11.6729071,
+              48.2664811
+            ]
+          ]
+        },
+        "id": "way/994971694"
+      },
+      {
+        "type": "Feature",
+        "properties": {
+          "@id": "way/996776206",
+          "highway": "living_street",
+          "maxspeed": "20",
+          "name": "Walther-Meißner-Straße",
+          "smoothness": "good",
+          "surface": "asphalt",
+          "width": "4.9"
+        },
+        "geometry": {
+          "type": "LineString",
+          "coordinates": [
+            [
+              11.6762208,
+              48.2645527
+            ],
+            [
+              11.675328,
+              48.2646541
+            ]
+          ]
+        },
+        "id": "way/996776206"
+      },
+      {
+        "type": "Feature",
+        "properties": {
+          "@id": "way/996777210",
+          "cycleway:both": "no",
+          "highway": "residential",
+          "lanes": "2",
+          "lit": "yes",
+          "maxspeed": "50",
+          "maxspeed:type": "DE:urban",
+          "name": "Lichtenbergstraße",
+          "parking:left": "no",
+          "parking:right": "street_side",
+          "parking:right:orientation": "parallel",
+          "sidewalk": "separate",
+          "smoothness": "excellent",
+          "surface": "asphalt"
+        },
+        "geometry": {
+          "type": "LineString",
+          "coordinates": [
+            [
+              11.6724475,
+              48.2666714
+            ],
+            [
+              11.6726382,
+              48.2666481
+            ],
+            [
+              11.6727088,
+              48.2666358
+            ],
+            [
+              11.6727441,
+              48.2666253
+            ],
+            [
+              11.6727795,
+              48.2666095
+            ]
+          ]
+        },
+        "id": "way/996777210"
+      },
+      {
+        "type": "Feature",
+        "properties": {
+          "@id": "way/996988021",
+          "highway": "living_street",
+          "maxspeed": "20",
+          "noname": "yes",
+          "smoothness": "good",
+          "surface": "asphalt"
+        },
+        "geometry": {
+          "type": "LineString",
+          "coordinates": [
+            [
+              11.6761428,
+              48.2642604
+            ],
+            [
+              11.6762208,
+              48.2645527
+            ]
+          ]
+        },
+        "id": "way/996988021"
+      },
+      {
+        "type": "Feature",
+        "properties": {
+          "@id": "way/1006099516",
+          "bicycle": "yes",
+          "foot": "yes",
+          "highway": "path",
+          "surface": "asphalt",
+          "tunnel": "building_passage"
+        },
+        "geometry": {
+          "type": "LineString",
+          "coordinates": [
+            [
+              11.6761724,
+              48.2666016
+            ],
+            [
+              11.6760533,
+              48.2666166
+            ],
+            [
+              11.6760818,
+              48.2667176
+            ],
+            [
+              11.6759369,
+              48.2667363
+            ]
+          ]
+        },
+        "id": "way/1006099516"
+      },
+      {
+        "type": "Feature",
+        "properties": {
+          "@id": "way/1006099517",
+          "bicycle": "yes",
+          "foot": "yes",
+          "highway": "path",
+          "surface": "asphalt"
+        },
+        "geometry": {
+          "type": "LineString",
+          "coordinates": [
+            [
+              11.6759369,
+              48.2667363
+            ],
+            [
+              11.6758195,
+              48.2667467
+            ]
+          ]
+        },
+        "id": "way/1006099517"
+      },
+      {
+        "type": "Feature",
+        "properties": {
+          "@id": "way/1064411270",
+          "cycleway:both": "no",
+          "highway": "residential",
+          "lane_markings": "no",
+          "lit": "yes",
+          "name": "Hans-Piloty-Straße",
+          "parking:left": "no",
+          "proposed:name": "Hans-Piloty-Straße",
+          "sidewalk": "right",
+          "smoothness": "good",
+          "surface": "asphalt"
+        },
+        "geometry": {
+          "type": "LineString",
+          "coordinates": [
+            [
+              11.6655431,
+              48.2675072
+            ],
+            [
+              11.6655143,
+              48.2673908
+            ],
+            [
+              11.6654221,
+              48.2670263
+            ],
+            [
+              11.6653859,
+              48.2668919
+            ],
+            [
+              11.6653202,
+              48.2666484
+            ],
+            [
+              11.6651562,
+              48.2659917
+            ],
+            [
+              11.6651439,
+              48.2659512
+            ],
+            [
+              11.6651292,
+              48.2659026
+            ]
+          ]
+        },
+        "id": "way/1064411270"
+      },
+      {
+        "type": "Feature",
+        "properties": {
+          "@id": "way/1079922923",
+          "highway": "path",
+          "lit": "yes",
+          "smoothness": "good",
+          "surface": "asphalt"
+        },
+        "geometry": {
+          "type": "LineString",
+          "coordinates": [
+            [
+              11.6632039,
+              48.2661336
+            ],
+            [
+              11.6631655,
+              48.2660695
+            ],
+            [
+              11.6631599,
+              48.2660455
+            ],
+            [
+              11.6630038,
+              48.2654503
+            ],
+            [
+              11.6629218,
+              48.2651377
+            ],
+            [
+              11.662071,
+              48.2652325
+            ],
+            [
+              11.6619751,
+              48.2652436
+            ]
+          ]
+        },
+        "id": "way/1079922923"
+      },
+      {
+        "type": "Feature",
+        "properties": {
+          "@id": "way/1079922924",
+          "highway": "path",
+          "lit": "yes",
+          "smoothness": "good",
+          "surface": "asphalt"
+        },
+        "geometry": {
+          "type": "LineString",
+          "coordinates": [
+            [
+              11.6629518,
+              48.2654571
+            ],
+            [
+              11.6630038,
+              48.2654503
+            ]
+          ]
+        },
+        "id": "way/1079922924"
+      },
+      {
+        "type": "Feature",
+        "properties": {
+          "@id": "way/1083613975",
+          "cycleway:both": "no",
+          "emergency": "designated",
+          "highway": "residential",
+          "lane_markings": "no",
+          "lit": "yes",
+          "maxspeed": "50",
+          "maxspeed:type": "sign",
+          "name": "Walther-von-Dyck-Straße",
+          "oneway": "yes",
+          "parking:both": "no",
+          "sidewalk": "no",
+          "smoothness": "excellent",
+          "source:maxspeed": "DE:urban",
+          "source:width": "ARCore",
+          "surface": "asphalt",
+          "width": "4.2"
+        },
+        "geometry": {
+          "type": "LineString",
+          "coordinates": [
+            [
+              11.6729168,
+              48.2660127
+            ],
+            [
+              11.6730108,
+              48.2663655
+            ],
+            [
+              11.6729071,
+              48.2664811
+            ]
+          ]
+        },
+        "id": "way/1083613975"
+      },
+      {
+        "type": "Feature",
+        "properties": {
+          "@id": "way/1108128612",
+          "bicycle": "yes",
+          "cycleway:both": "no",
+          "highway": "residential",
+          "lane_markings": "no",
+          "lit": "yes",
+          "maxspeed": "50",
+          "name": "Boltzmannstraße",
+          "parking:both": "no",
+          "sidewalk:left": "separate",
+          "sidewalk:right": "no",
+          "smoothness": "good",
+          "surface": "asphalt"
+        },
+        "geometry": {
+          "type": "LineString",
+          "coordinates": [
+            [
+              11.6724475,
+              48.2666714
+            ],
+            [
+              11.6724628,
+              48.2667368
+            ],
+            [
+              11.6724794,
+              48.2668043
+            ],
+            [
+              11.6725233,
+              48.2669829
+            ],
+            [
+              11.672553,
+              48.267089
+            ],
+            [
+              11.672589,
+              48.2672285
+            ]
+          ]
+        },
+        "id": "way/1108128612"
+      },
+      {
+        "type": "Feature",
+        "properties": {
+          "@id": "way/1108128613",
+          "bicycle": "yes",
+          "cycleway:both": "no",
+          "highway": "residential",
+          "lane_markings": "no",
+          "lit": "yes",
+          "maxspeed": "50",
+          "name": "Boltzmannstraße",
+          "parking:both": "no",
+          "sidewalk": "separate",
+          "smoothness": "good",
+          "surface": "asphalt",
+          "width": "6"
+        },
+        "geometry": {
+          "type": "LineString",
+          "coordinates": [
+            [
+              11.672589,
+              48.2672285
+            ],
+            [
+              11.6726593,
+              48.2674937
+            ],
+            [
+              11.6727208,
+              48.2677227
+            ],
+            [
+              11.6727477,
+              48.267815
+            ],
+            [
+              11.6728163,
+              48.2680506
+            ]
+          ]
+        },
+        "id": "way/1108128613"
+      },
+      {
+        "type": "Feature",
+        "properties": {
+          "@id": "way/1108128947",
+          "bicycle": "yes",
+          "cycleway:both": "no",
+          "highway": "residential",
+          "lane_markings": "no",
+          "lit": "yes",
+          "maxspeed": "50",
+          "name": "Boltzmannstraße",
+          "parking:left": "separate",
+          "parking:right": "no",
+          "sidewalk:both": "separate",
+          "smoothness": "good",
+          "surface": "asphalt",
+          "width": "6"
+        },
+        "geometry": {
+          "type": "LineString",
+          "coordinates": [
+            [
+              11.6728163,
+              48.2680506
+            ],
+            [
+              11.672856,
+              48.2682045
+            ]
+          ]
+        },
+        "id": "way/1108128947"
+      },
+      {
+        "type": "Feature",
+        "properties": {
+          "@id": "way/1108128948",
+          "bicycle": "yes",
+          "cycleway:both": "no",
+          "highway": "residential",
+          "lane_markings": "no",
+          "lit": "yes",
+          "maxspeed": "50",
+          "name": "Boltzmannstraße",
+          "parking:both": "no",
+          "sidewalk:both": "separate",
+          "smoothness": "good",
+          "source:width": "ARCore",
+          "surface": "asphalt",
+          "width": "6"
+        },
+        "geometry": {
+          "type": "LineString",
+          "coordinates": [
+            [
+              11.672856,
+              48.2682045
+            ],
+            [
+              11.6729112,
+              48.2684136
+            ],
+            [
+              11.6729228,
+              48.2684621
+            ]
+          ]
+        },
+        "id": "way/1108128948"
+      },
+      {
+        "type": "Feature",
+        "properties": {
+          "@id": "way/1108129077",
+          "cycleway:both": "no",
+          "highway": "residential",
+          "lane_markings": "no",
+          "name": "James-Franck-Straße",
+          "parking:both": "no",
+          "sidewalk": "no",
+          "source:width": "ARCore",
+          "surface": "asphalt",
+          "width": "5.6"
+        },
+        "geometry": {
+          "type": "LineString",
+          "coordinates": [
+            [
+              11.6745788,
+              48.26685
+            ],
+            [
+              11.6747977,
+              48.2668428
+            ],
+            [
+              11.6751142,
+              48.2668192
+            ],
+            [
+              11.6754779,
+              48.2667843
+            ],
+            [
+              11.6758195,
+              48.2667467
+            ]
+          ]
+        },
+        "id": "way/1108129077"
+      },
+      {
+        "type": "Feature",
+        "properties": {
+          "@id": "way/1108129216",
+          "cycleway:both": "separate",
+          "highway": "unclassified",
+          "lane_markings": "no",
+          "lit": "yes",
+          "maxspeed": "60",
+          "name": "Ludwig-Prandtl-Straße",
+          "parking:both": "no",
+          "sidewalk": "separate",
+          "smoothness": "good",
+          "surface": "asphalt",
+          "width": "8.9"
+        },
+        "geometry": {
+          "type": "LineString",
+          "coordinates": [
+            [
+              11.6661199,
+              48.2615
+            ],
+            [
+              11.6658956,
+              48.2615249
+            ],
+            [
+              11.6658779,
+              48.2615275
+            ],
+            [
+              11.6651738,
+              48.2616159
+            ],
+            [
+              11.6639212,
+              48.2617701
+            ]
+          ]
+        },
+        "id": "way/1108129216"
+      },
+      {
+        "type": "Feature",
+        "properties": {
+          "@id": "way/1198953652",
+          "cycleway:both": "no",
+          "highway": "residential",
+          "lane_markings": "no",
+          "name": "James-Franck-Straße",
+          "parking:both": "separate",
+          "sidewalk:left": "separate",
+          "sidewalk:right": "no",
+          "smoothness": "good",
+          "surface": "asphalt",
+          "width": "7"
+        },
+        "geometry": {
+          "type": "LineString",
+          "coordinates": [
+            [
+              11.672553,
+              48.267089
+            ],
+            [
+              11.6726456,
+              48.2670769
+            ],
+            [
+              11.6729541,
+              48.2670384
+            ]
+          ]
+        },
+        "id": "way/1198953652"
+      },
+      {
+        "type": "Feature",
+        "properties": {
+          "@id": "way/1198953653",
+          "cycleway:both": "no",
+          "highway": "residential",
+          "lane_markings": "no",
+          "lit": "yes",
+          "maxspeed": "50",
+          "name": "Ernst-Otto-Fischer-Straße",
+          "parking:left": "street_side",
+          "parking:left:orientation": "perpendicular",
+          "parking:right": "no",
+          "sidewalk:left": "yes",
+          "sidewalk:right": "separate",
+          "smoothness": "good",
+          "surface": "asphalt",
+          "width": "6"
+        },
+        "geometry": {
+          "type": "LineString",
+          "coordinates": [
+            [
+              11.6721696,
+              48.2693786
+            ],
+            [
+              11.6728306,
+              48.2693002
+            ],
+            [
+              11.6731354,
+              48.269264
+            ]
+          ]
+        },
+        "id": "way/1198953653"
+      },
+      {
+        "type": "Feature",
+        "properties": {
+          "@id": "way/1198953654",
+          "delivery": "yes",
+          "emergency": "designated",
+          "highway": "living_street",
+          "lanes": "1",
+          "lit": "yes",
+          "maxweight": "40 t",
+          "name": "Walther-von-Dyck-Straße",
+          "oneway": "yes",
+          "parking:both": "no",
+          "sidewalk": "no",
+          "smoothness": "excellent",
+          "source:width": "ARCore",
+          "surface": "asphalt",
+          "width": "5"
+        },
+        "geometry": {
+          "type": "LineString",
+          "coordinates": [
+            [
+              11.6729071,
+              48.2664811
+            ],
+            [
+              11.6728624,
+              48.2662999
+            ],
+            [
+              11.6726826,
+              48.2656245
+            ],
+            [
+              11.6726409,
+              48.2654773
+            ]
+          ]
+        },
+        "id": "way/1198953654"
+      },
+      {
+        "type": "Feature",
+        "properties": {
+          "@id": "way/1203803777",
+          "cycleway:both": "no",
+          "highway": "unclassified",
+          "lane_markings": "no",
+          "maxspeed": "50",
+          "name": "Lichtenbergstraße",
+          "parking:both": "no",
+          "sidewalk:both": "separate",
+          "smoothness": "good",
+          "surface": "asphalt"
+        },
+        "geometry": {
+          "type": "LineString",
+          "coordinates": [
+            [
+              11.6661659,
+              48.2674354
+            ],
+            [
+              11.666404,
+              48.2674024
+            ],
+            [
+              11.6667484,
+              48.2673623
+            ],
+            [
+              11.6671797,
+              48.2673074
+            ],
+            [
+              11.6675912,
+              48.2672556
+            ]
+          ]
+        },
+        "id": "way/1203803777"
+      },
+      {
+        "type": "Feature",
+        "properties": {
+          "@id": "way/1211997773",
+          "cycleway:both": "no",
+          "highway": "unclassified",
+          "lane_markings": "no",
+          "lit": "yes",
+          "maxspeed": "50",
+          "name": "Lichtenbergstraße",
+          "parking:both": "no",
+          "sidewalk:both": "no",
+          "surface": "asphalt"
+        },
+        "geometry": {
+          "type": "LineString",
+          "coordinates": [
+            [
+              11.663136,
+              48.2677959
+            ],
+            [
+              11.663625,
+              48.2677329
+            ],
+            [
+              11.6638074,
+              48.2677085
+            ],
+            [
+              11.6639199,
+              48.2676934
+            ],
+            [
+              11.6639762,
+              48.2676863
+            ],
+            [
+              11.6641071,
+              48.2676699
+            ]
+          ]
+        },
+        "id": "way/1211997773"
+      },
+      {
+        "type": "Feature",
+        "properties": {
+          "@id": "way/1223290039",
+          "cycleway:both": "no",
+          "foot": "use_sidepath",
+          "highway": "unclassified",
+          "lanes": "2",
+          "lit": "yes",
+          "maxspeed": "50",
+          "name": "Boltzmannstraße",
+          "parking:both": "no",
+          "psv": "yes",
+          "sidewalk": "separate",
+          "smoothness": "good",
+          "surface": "asphalt"
+        },
+        "geometry": {
+          "type": "LineString",
+          "coordinates": [
+            [
+              11.6710812,
+              48.2645067
+            ],
+            [
+              11.6711494,
+              48.2647506
+            ]
+          ]
+        },
+        "id": "way/1223290039"
+      },
+      {
+        "type": "Feature",
+        "properties": {
+          "@id": "way/1291164901",
+          "highway": "path",
+          "informal": "yes",
+          "smoothness": "intermediate",
+          "surface": "asphalt"
+        },
+        "geometry": {
+          "type": "LineString",
+          "coordinates": [
+            [
+              11.6706398,
+              48.2630118
+            ],
+            [
+              11.6707069,
+              48.2629488
+            ]
+          ]
+        },
+        "id": "way/1291164901"
+      }
+    ]
+  }

@@ -1,0 +1,33 @@
+{
+    "version": 6,
+    "cmakeMinimumRequired": {
+        "major": 3,
+        "minor": 25,
+        "patch": 0
+    },
+    "configurePresets": [
+        {
+            "name": "esp",
+            "displayName": "ESP",
+            "description": "Build the main application for the ESP32",
+            "binaryDir": "${sourceDir}/build",
+            "generator": "Ninja",
+            "environment": {
+                "IDF_PATH" : "/home/aaf/esp/v5.3.1/esp-idf"
+            },
+            "cacheVariables": {
+                "CI": false
+            }
+        },
+        {
+            "name": "ci-test",
+            "displayName": "CI Test",
+            "description": "Build the test runner executed in the CI test job",
+            "binaryDir": "${sourceDir}/build-ci",
+            "generator": "Ninja",
+            "cacheVariables": {
+                "CI": true
+            }
+        }
+    ]
+}
